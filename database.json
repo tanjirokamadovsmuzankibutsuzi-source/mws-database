@@ -1,13 +1,5 @@
 [
   {
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbmdyeW4xdG1pMW4yeXlp",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaERpWDVRWnllbzRoemlK",
-    "name": "Troll.2022.1080p.NF.WEB-DL.HDR.MULTi.DDP5.1.Atmos.H.265-CMZy-END.mkv",
-    "size": "4.57 GB",
-    "langs": "Multi Audio",
-    "is_new": true
-  },
-  {
     "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSmxsbjJhbWhMQm5jR0xU",
     "name": "Troll.2022.1080p.NF.WEB-DL.HDR.MULTi.DDP5.1.Atmos.AV1-CMZy-END.mkv",
@@ -45,7 +37,7 @@
     "langs": "Multi Audio",
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMGUwbnV0YTByYnFncWZx",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdE5nOW5NbkkzVXpFTDlh",
-    "is_new": false
+    "is_new": true
   },
   {
     "name": "Playing.Gracie.Darling.S01E04.Let.Me.Out.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
