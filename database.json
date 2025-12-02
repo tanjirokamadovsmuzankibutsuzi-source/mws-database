@@ -1,11 +1,115 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbHFDR3YxcHlQQUc0Z3Ba",
+    "name": "My.Hero.Academia.Vigilantes.S01E13.What.a.Man.Takes.with.Him.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "315.68 MB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdU5oQWhVRTUyYlVwSFZH",
+    "name": "My.Hero.Academia.Vigilantes.S01E12.Goodbye.to.Dad.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "375.98 MB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvckhlZndrSm5NRzdJb05u",
+    "name": "My.Hero.Academia.Vigilantes.S01E11.The.Day.Of.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "349.41 MB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVkJtdHp0MWcxS1doMFFR",
+    "name": "My.Hero.Academia.Vigilantes.S01E10.Event.Announcement!.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "327.94 MB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbGpGQzVPRW5FZXRXb0dK",
+    "name": "My.Hero.Academia.Vigilantes.S01E09.Mom.Descends!.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "385.91 MB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRjNXNlFOWjV3dE15dmI2",
+    "name": "My.Hero.Academia.Vigilantes.S01E08.Major.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "359.3 MB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUThDQUFLT2oyYzZ1MGtn",
+    "name": "My.Hero.Academia.Vigilantes.S01E07.Makoto-Truth.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "335.44 MB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvU2ZWV1R0QVloU0N1R0dN",
+    "name": "My.Hero.Academia.Vigilantes.S01E06.Crossing.Lines.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "373.97 MB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZEdhT0VtQlpTbDc5VzZ0",
+    "name": "My.Hero.Academia.Vigilantes.S01E05.Judgment.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "304.43 MB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUveWxOYnRYcW0ybWs3anh2",
+    "name": "My.Hero.Academia.Vigilantes.S01E04.Top.Runner.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "367.84 MB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRDdSY2cyZVhFRVZaOFBB",
+    "name": "My.Hero.Academia.Vigilantes.S01E03.Bee.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "363.73 MB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvb0JOZW0xdHVSR1gxR3JG",
+    "name": "My.Hero.Academia.Vigilantes.S01E02.Takeoff.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "407.43 MB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZ1ZvNjc1bUphZWphTHFx",
+    "name": "My.Hero.Academia.Vigilantes.S01E01.Im.Here.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "406.48 MB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvN2pSOUduaG9maFd2cENH",
     "name": "Delhi.Crime.S03E06.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
     "size": "2.74 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -13,7 +117,7 @@
     "name": "Delhi.Crime.S03E05.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
     "size": "2.64 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -21,7 +125,7 @@
     "name": "Delhi.Crime.S03E04.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
     "size": "3 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -29,7 +133,7 @@
     "name": "Delhi.Crime.S03E03.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
     "size": "3.08 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -37,7 +141,7 @@
     "name": "Delhi.Crime.S03E02.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
     "size": "3.02 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
