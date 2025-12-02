@@ -1,11 +1,59 @@
 [
   {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbUVaM21MV1RmUFI4TGh1",
+    "name": "Tojima.Wants.to.Be.a.Kamen.Rider.S01E06.Order.Some.Snacks.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-CMZy-END.mkv",
+    "size": "993.45 MB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaHRreW9EYTdaMGdnbFdC",
+    "name": "Tojima.Wants.to.Be.a.Kamen.Rider.S01E05.Let.Me.Be.V3.Too.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-CMZy-END.mkv",
+    "size": "1.18 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYmwzbEh3NUxzWnBiaW1u",
+    "name": "Tojima.Wants.to.Be.a.Kamen.Rider.S01E04.Who.is.the.Strongest.Kamen.Rider.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-CMZy-END.mkv",
+    "size": "1.07 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdWhLZE1ZcnRHcG9UQ25a",
+    "name": "Tojima.Wants.to.Be.a.Kamen.Rider.S01E03.I.Love.The.Moment.When.Hate.Turns.To.Love.1080p.CR.WEB-DL.MULTi.AAC2.0.MSubs.H.264-CMZy-END.mkv",
+    "size": "1004.42 MB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaTloOWp5NThXSEVXS0lD",
+    "name": "Tojima.Wants.to.Be.a.Kamen.Rider.S01E02.I.am.Tackle.1080p.CR.WEB-DL.MULTi.AAC2.0.MSubs.H.264-CMZy-END.mkv",
+    "size": "1000.12 MB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQWtLY2NXcDVWalBySkdB",
+    "name": "Tojima.Wants.to.Be.a.Kamen.Rider.S01E01.Tojima.Wants.to.Be.a.Kamen.Rider.1080p.CR.WEB-DL.MULTi.AAC2.0.MSubs.H.264-CMZy-END.mkv",
+    "size": "1.09 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vdmNvNm96a3pjamxqODhs",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYUdSNlhSTjNnR1FNZGY0",
     "name": "Den of Thieves (2018) 1080p Theatrical BluRay REMUX x264 [HIN-TAM-TEL DDP 5.1 640Kbps + ENG DTS-HD MA 5.1 3427Kbps] MSubs - DTiNS - FraMeSToR.mkv",
     "size": "31.43 GB",
     "langs": "Hindi | English | Tamil | Telugu",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vcmFkZHRhZHQ2bWE4Zm1v",
@@ -13,7 +61,7 @@
     "name": "A.Wild.Last.Boss.Appeared!.S01E07.I.was....a.Savior!.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-CMZy-END.mkv",
     "size": "840.83 MB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vODF1b3U4d3dud3FjY3Nn",
@@ -21,7 +69,7 @@
     "name": "A.Wild.Last.Boss.Appeared!.S01E06.Libra.of.the.Scales.Appeared!.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-CMZy-END.mkv",
     "size": "894.41 MB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vaGhuZHBxbnBobnFuMTUx",
@@ -29,7 +77,7 @@
     "name": "A.Wild.Last.Boss.Appeared!.S01E05.A.Wild.Hot.Spring.Appeared!.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-CMZy-END.mkv",
     "size": "944.7 MB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vYXllZXN4ZGl5bmlxZWVo",
@@ -37,7 +85,7 @@
     "name": "A.Wild.Last.Boss.Appeared!.S01E04.They.Were.Pulling.Strings.Behind.the.Scenes!.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-CMZy-END.mkv",
     "size": "849.27 MB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vcl91XzY3eXJyZG1xNXN3",
