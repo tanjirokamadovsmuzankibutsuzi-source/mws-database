@@ -1,11 +1,59 @@
 [
   {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvN2pSOUduaG9maFd2cENH",
+    "name": "Delhi.Crime.S03E06.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
+    "size": "2.74 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcFR0R0xLQ1huR3FKZW1z",
+    "name": "Delhi.Crime.S03E05.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
+    "size": "2.64 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTjJIQmFpT0tKQ1Y1eHVR",
+    "name": "Delhi.Crime.S03E04.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
+    "size": "3 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUveDVaNnU0QmVzZlF1WHNi",
+    "name": "Delhi.Crime.S03E03.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
+    "size": "3.08 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOGVtdFdONjBLMG9vc21Z",
+    "name": "Delhi.Crime.S03E02.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
+    "size": "3.02 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSlFsTHp5VXVHN3B5djRL",
+    "name": "Delhi.Crime.S03E01.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
+    "size": "3.54 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vcjFvanI3cmZ2em92cHVz",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaU9OUU14VzR5QVdpbkwz",
     "name": "The Night (2020) 1080p BluRay x264 [JHS HIN DDP5.1 192Kbps + ENG DTS-HD MA 5.1 2400Kbps] MSubs - END-CHD.mkv",
     "size": "13.17 GB",
     "langs": "Hindi | English",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vN183eHpudWliZ3h5d2Jl",
@@ -13,7 +61,7 @@
     "name": "Den of Thieves (2018) Unrated 2160p UHD BluRay 10bit DV HDR x265 [HI-TA-TE DDP5.1 640Kbps + EN DDP7.1 1024Kbps] MSubs - END-HONE.mkv",
     "size": "25.27 GB",
     "langs": "Hindi | English | Tamil | Telugu",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vcWRkcWpieXRmZG1xYm1v",
@@ -21,7 +69,7 @@
     "name": "The Night (2020) 1080p BluRay x264 [JHS HIN DDP5.1 192Kbps + ENG DTS-HD MA 5.1 1678Kbps] ESub - END-JustWatch.mkv",
     "size": "9.89 GB",
     "langs": "Hindi | English",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vZnpkZG51cW96enNvOHAx",
@@ -29,7 +77,7 @@
     "name": "Gachiakuta.S01E18.Oh.Zap.Totes.Legit.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-CMZy-END.mkv",
     "size": "1.05 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vMTZwcm1lcm5tbmxyc2U4",
@@ -37,7 +85,7 @@
     "name": "Gachiakuta.S01E17.Memories.of.a.Mediocrity.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-CMZy-END.mkv",
     "size": "1.02 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vOGZxeXltcXVmYm5iZnZt",
