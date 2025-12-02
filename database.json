@@ -1,6 +1,14 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYUdSNlhSTjNnR1FNZGY0",
+    "name": "Den of Thieves (2018) 1080p Theatrical BluRay REMUX x264 [HIN-TAM-TEL DDP 5.1 640Kbps + ENG DTS-HD MA 5.1 3427Kbps] MSubs - DTiNS - FraMeSToR.mkv",
+    "size": "31.43 GB",
+    "langs": "Hindi | English | Tamil | Telugu",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUnFNR1d5ZzFEdFhURlkz",
     "name": "A.Wild.Last.Boss.Appeared!.S01E07.I.was....a.Savior!.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-CMZy-END.mkv",
     "size": "840.83 MB",
@@ -37,7 +45,7 @@
     "name": "A.Wild.Last.Boss.Appeared!.S01E03.Aries.Has.Attacked!.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-CMZy-END.mkv",
     "size": "1.03 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
