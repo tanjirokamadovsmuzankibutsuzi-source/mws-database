@@ -1,11 +1,59 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOVhSVEdNZFhjN0lwUHY5",
+    "name": "Last.Samurai.Standing.S01E06.Mortal.Combat.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "3.86 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUveXVDb1VFZk9WZzAyNTRX",
+    "name": "Last.Samurai.Standing.S01E05.Specters.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "3.33 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvN1lLR1VhRnFXN0x4Vmo3",
+    "name": "Last.Samurai.Standing.S01E04.The.Mastermind.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "3.66 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbVFJQmdNM3pGRkhXbXBY",
+    "name": "Last.Samurai.Standing.S01E03.Fate.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "3.61 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvV1NiN1M2QndRYWZXdUZt",
+    "name": "Last.Samurai.Standing.S01E02.Awakening.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "4.04 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcDZrZk9mNlFsRTJhUEE4",
+    "name": "Last.Samurai.Standing.S01E01.Kodoku.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "4.11 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRFB2Qk5qUXEycm9vSHpm",
     "name": "The.Night.Es.gibt.keinen.Ausweg.2020.1080p.BluRay.REMUX.AVC.DUAL.DTS-HD.MA.5.1.MSubs-END.mkv",
     "size": "23.14 GB",
     "langs": "Spanish",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -13,7 +61,7 @@
     "name": "My.Hero.Academia.Vigilantes.S01E13.What.a.Man.Takes.with.Him.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
     "size": "315.68 MB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -21,7 +69,7 @@
     "name": "My.Hero.Academia.Vigilantes.S01E12.Goodbye.to.Dad.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
     "size": "375.98 MB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -29,7 +77,7 @@
     "name": "My.Hero.Academia.Vigilantes.S01E11.The.Day.Of.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
     "size": "349.41 MB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -37,7 +85,7 @@
     "name": "My.Hero.Academia.Vigilantes.S01E10.Event.Announcement!.1080p.JHS.WEB-DL.MULTi.AAC2.0.H.265-CMZy-END.mkv",
     "size": "327.94 MB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
