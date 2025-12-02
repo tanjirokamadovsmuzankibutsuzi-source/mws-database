@@ -1,13 +1,5 @@
 [
   {
-    "hub": "Ly9odWJjbG91ZC5mb28vdmlkZW8vY3d0ZHVpazR6a2h5andz",
-    "gdf": "Ly9nZGZsaXguZGV2L2ZpbGUvZXFjbWFMdHhtOWtScTh3",
-    "name": "Roxanne (1987) 1080p BluRay x264 [ENG-HIN DDP 5.1 640Kbps] ESub - DTiNS - BARC0DE.mkv",
-    "size": "8.29 GB",
-    "langs": "Hindi | English",
-    "is_new": true
-  },
-  {
     "hub": "Ly9odWJjbG91ZC5mb28vdmlkZW8vb3RzeDJiczFsZG5sZ3l4",
     "gdf": "Ly9nZGZsaXguZGV2L2ZpbGUvYThkZ0dwN2pXa3pUdW1x",
     "name": "Roxanne (1987) 1080p BluRay REMUX x264 [HIN DDP 5.1 640Kbps + ENG TrueHD 5.1 1403Kbps] MSubs - DTiNS - EPSiLON.mkv",
@@ -45,7 +37,7 @@
     "name": "Troll.2022.1080p.LQ.NF.WEB-DL.MULTi.DDP5.1.Atmos.H.264-CMZy-END.mkv",
     "size": "4.21 GB",
     "langs": "Multi Audio",
-    "is_new": false
+    "is_new": true
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdnhscTB4MHRwMWNxbnRz",
