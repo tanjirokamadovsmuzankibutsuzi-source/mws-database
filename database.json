@@ -1,11 +1,83 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdkRNbFRsZmd1OHhzZHZ1",
+    "name": "Physical.Asia.S01E09.Inescapable.Hell.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "1.82 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVDNsaGRBdHVlcjc5T2hy",
+    "name": "Physical.Asia.S01E08.Formidable.Foe.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "2.64 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVDVYOWdnTXpIRmhZQzJT",
+    "name": "Physical.Asia.S01E07.For.the.Homeland.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "3.14 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRGNrc3h6ZlJKUERCTkZi",
+    "name": "Physical.Asia.S01E06.Insurmountable.Wall.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "3.74 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZTJJdnJVdWdobHFCS3Vp",
+    "name": "Physical.Asia.S01E05.Mysterious.Village.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "3.53 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvd3hXQ0xLM2hhc0tGNlM5",
+    "name": "Physical.Asia.S01E04.Desperate.Prayer.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "3.07 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZGltTHlDMW5JV2VMN1FS",
+    "name": "Physical.Asia.S01E03.Shipwreck.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "1.99 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNzdnMnkyM2cyMHlNNUpK",
+    "name": "Physical.Asia.S01E02.On.The.Brink.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "2.37 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUGxMTXlNZmU0RVllSGp1",
+    "name": "Physical.Asia.S01E01.Where.the.Sun.Rises.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "2.41 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZDlDZElnQmJMbzZqY0tZ",
     "name": "5D.2024.1080p.JHS.WEB-DL.Hindi.DDP5.1.H.265-CMZy-END.mkv",
     "size": "2.33 GB",
     "langs": "Hindi",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -13,7 +85,7 @@
     "name": "Crime.Scene.2022.1080p.JHS.WEB-DL.Hindi.AAC2.0.H.265-CMZy-END.mkv",
     "size": "1.96 GB",
     "langs": "Hindi",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -21,7 +93,7 @@
     "name": "Crime.Scene.2022.1080p.JHS.WEB-DL.Hindi.AAC2.0.H.264-CMZy-END.mkv",
     "size": "3.08 GB",
     "langs": "Hindi",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -29,7 +101,7 @@
     "name": "Twilight.2008.1080p.AMZN.WEB-DL.MULTi.DDP5.1.ESub-CMZy-END.mkv",
     "size": "12.84 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5meWkvdmlkZW8vbzk0aWwxbDl5OWQxMXM5",
@@ -37,7 +109,7 @@
     "name": "Lamhe.1991.1080p.NF.WEB-DL.Hindi.AAC2.0.H.264-CMZy-END.mkv",
     "size": "10.30 GB",
     "langs": "Hindi",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5meWkvdmlkZW8vemQyZncycDl3aGJybnVw",
