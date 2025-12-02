@@ -1,11 +1,67 @@
 [
   {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaWRmcXFzb290dHYxOHJ6",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUk9Fa2RnUTV3a1RIbVNq",
+    "name": "Troll.2022.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.H.264-CMZy-END.mkv",
+    "size": "6.03 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaWRmcXFzb290dHYxOHJ6",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvR0hIV2NlUm10c2IyNmVH",
+    "name": "Troll.2022.1080p.HQ.NF.WEB-DL.MULTi.DDP5.1.Atmos.H.264-CMZy-END.mkv",
+    "size": "6.45 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaWRmcXFzb290dHYxOHJ6",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRTdvazZvbk1WYmd2bmV6",
+    "name": "Troll.2022.1080p.LQ.NF.WEB-DL.MULTi.DDP5.1.Atmos.H.264-CMZy-END.mkv",
+    "size": "4.21 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdnhscTB4MHRwMWNxbnRz",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYVRzdkN5bkRkU1puMEZK",
+    "name": "Troll.2022.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.AV1-CMZy-END.mkv",
+    "size": "4.82 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcXJyZHV1bnVpcmJ2cjNx",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSmxsbjJhbWhMQm5jR0xU",
+    "name": "Troll.2022.1080p.NF.WEB-DL.HDR.MULTi.DDP5.1.Atmos.AV1-CMZy-END.mkv",
+    "size": "5.21 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZncxbDFzaWxtMXFsc3Ns",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaERpWDVRWnllbzRoemlK",
+    "name": "Troll.2022.1080p.NF.WEB-DL.HDR.MULTi.DDP5.1.Atmos.H.265-CMZy-END.mkv",
+    "size": "4.57 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveWlwcHR2aWlpMTh3b2Fp",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTXM5dkhxc0RXOE1KUTZL",
+    "name": "Troll.2022.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.H.265-CMZy-END.mkv",
+    "size": "5.37 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
     "name": "Playing.Gracie.Darling.S01.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.zip",
     "size": "5.44 GB",
     "langs": "Dual Audio",
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY3ZkNXA1NDVkYXZidWNl",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdmFWa29XTmFRZk5ieDhP",
-    "is_new": true
+    "is_new": false
   },
   {
     "name": "Playing.Gracie.Darling.S01.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.zip",
@@ -13,7 +69,7 @@
     "langs": "Dual Audio",
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbmdyeW4xdG1pMW4yeXlp",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNXhsM3c0SE9FeHZuUE83",
-    "is_new": true
+    "is_new": false
   },
   {
     "name": "Playing.Gracie.Darling.S01E06.Dias.Irae.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
@@ -21,7 +77,7 @@
     "langs": "Dual Audio",
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveDR1NGZ4ZHdyY2RjZDFi",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdWZzbW1QcW5ObG92cVpV",
-    "is_new": true
+    "is_new": false
   },
   {
     "name": "Playing.Gracie.Darling.S01E05.Nine.of.Swords.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
@@ -29,7 +85,7 @@
     "langs": "Dual Audio",
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMGUwbnV0YTByYnFncWZx",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdE5nOW5NbkkzVXpFTDlh",
-    "is_new": true
+    "is_new": false
   },
   {
     "name": "Playing.Gracie.Darling.S01E04.Let.Me.Out.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
@@ -37,7 +93,7 @@
     "langs": "Dual Audio",
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvb2R0YmY1aHZ2aGt0bmgx",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcFFYeXZuaUZHNWZTZ2lE",
-    "is_new": true
+    "is_new": false
   },
   {
     "name": "Playing.Gracie.Darling.S01E03.Murmurations.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
