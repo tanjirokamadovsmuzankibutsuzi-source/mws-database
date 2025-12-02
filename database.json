@@ -1,13 +1,5 @@
 [
   {
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaWRmcXFzb290dHYxOHJ6",
-    "gdf": "",
-    "name": "Troll.2022.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.H.264-CMZy-END.mkv",
-    "size": "4.21 GB",
-    "langs": "Multi Audio",
-    "is_new": true
-  },
-  {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdnhscTB4MHRwMWNxbnRz",
     "gdf": "",
     "name": "Troll.2022.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.AV1-CMZy-END.mkv",
@@ -45,7 +37,7 @@
     "langs": "Dual Audio",
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY3ZkNXA1NDVkYXZidWNl",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdmFWa29XTmFRZk5ieDhP",
-    "is_new": false
+    "is_new": true
   },
   {
     "name": "Playing.Gracie.Darling.S01.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.zip",
