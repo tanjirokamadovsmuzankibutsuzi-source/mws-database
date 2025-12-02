@@ -1,5 +1,13 @@
 [
   {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5meWkvdmlkZW8vbzk0aWwxbDl5OWQxMXM5",
+    "gdf": "",
+    "name": "Lamhe.1991.1080p.NF.WEB-DL.Hindi.AAC2.0.H.264-CMZy-END.mkv",
+    "size": "10.30 GB",
+    "langs": "Hindi",
+    "is_new": true
+  },
+  {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5meWkvdmlkZW8vemQyZncycDl3aGJybnVw",
     "gdf": "",
     "name": "Aaina.1993.1080p.NF.WEB-DL.Hindi.AAC2.0.H.264-CMZy-END.mkv",
@@ -37,7 +45,7 @@
     "name": "Jurassic.World.Rebirth.2025.1080p.JHS.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
     "size": "3.56 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
