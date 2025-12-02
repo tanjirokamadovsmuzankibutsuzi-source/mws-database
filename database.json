@@ -1,1690 +1,1470 @@
 [
-  {
-    "hub": "SHViQ2xvdWQ6IGh0dHBzOi8vaHViY2xvdWQuZm9vL2RyaXZlL2pzbXVtenV6eGNkZ3JrZQ==",
-    "gdf": "R0RGbGlYOiBodHRwczovL2dkZmxpeC5kZXYvZmlsZS9MNnBmZWpkbFh6aEpBZGQ=",
-    "name": "Troll.2.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.H.265-CMZy-END.mkv",
-    "size": "4.86 GB",
-    "langs": "Multi Audio",
-    "is_new": true
-  },
-  {
-    "hub": "SHViQ2xvdWQ6IGh0dHBzOi8vaHViY2xvdWQuZm9vL2RyaXZlL2trZDA2NmdhaGF0a2t2cg==",
-    "gdf": "R0RGbGlYOiBodHRwczovL2dkZmxpeC5kZXYvZmlsZS9sTVpiQVNLcjR4UFZZTE8=",
-    "name": "Troll.2.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.H.264-CMZy-END.mkv",
-    "size": "6.00 GB",
-    "langs": "Multi Audio",
-    "is_new": true
-  },
-  {
-    "hub": "SHViQ2xvdWQ6IGh0dHBzOi8vaHViY2xvdWQuZm9vL2RyaXZlL3Jjcjd0dGtueHJwZ3Jieg==",
-    "gdf": "R0RGbGlYOiBodHRwczovL2dkZmxpeC5kZXYvZmlsZS9OUTRXWEZra3RiVEF1alE=",
-    "name": "Troll.2.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.AV1-CMZy-END.mkv",
-    "size": "2.99 GB",
-    "langs": "Multi Audio",
-    "is_new": true
-  },
-  {
-    "hub": "SHViQ2xvdWQ6IGh0dHBzOi8vaHViY2xvdWQuZm9vL2RyaXZlL3p6dWdtdm1jenB6NHBjeA==",
-    "gdf": "R0RGbGlYOiBodHRwczovL2dkZmxpeC5kZXYvZmlsZS8wNmRIaURQMU5GZEpqdkU=",
-    "name": "Troll.2.2025.1080p.NF.WEB-DL.MULTi.AAC5.1.H.264-CMZy-END.mkv",
-    "size": "1.42 GB",
-    "langs": "Multi Audio",
-    "is_new": true
-  },
-  {
-    "hub": "SHViQ2xvdWQ6IGh0dHBzOi8vaHViY2xvdWQuZm9vL2RyaXZlL2ZidWoxbmo5YXRsMGoyMg==",
-    "gdf": "R0RGbGlYOiBodHRwczovL2dkZmxpeC5kZXYvZmlsZS9VbTZVV1pTRzE2MFBHR0M=",
-    "name": "Troll.2.2025.1080p.NF.WEB-DL.HDR.MULTi.DDP5.1.Atmos.H.265-CMZy-END.mkv",
-    "size": "3.49 GB",
-    "langs": "Multi Audio",
-    "is_new": true
-  },
-  {
-    "hub": "SHViQ2xvdWQ6IGh0dHBzOi8vaHViY2xvdWQuZm9vL2RyaXZlLzNmNGdpYmpjeHpkaHRicQ==",
-    "gdf": "R0RGbGlYOiBodHRwczovL2dkZmxpeC5kZXYvZmlsZS9wbUk4TlNGd1NoS2VzQUY=",
-    "name": "Troll.2.2025.1080p.NF.WEB-DL.HDR.MULTi.DDP5.1.Atmos.AV1-CMZy-END.mkv",
-    "size": "5.20 GB",
-    "langs": "Multi Audio",
-    "is_new": false
-  },
-  {
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbmdyeW4xdG1pMW4yeXlp",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaERpWDVRWnllbzRoemlK",
-    "name": "Troll.2022.1080p.NF.WEB-DL.HDR.MULTi.DDP5.1.Atmos.H.265-CMZy-END.mkv",
-    "size": "4.57 GB",
-    "langs": "Multi Audio",
-    "is_new": false
-  },
-  {
-    "hub": "",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSmxsbjJhbWhMQm5jR0xU",
-    "name": "Troll.2022.1080p.NF.WEB-DL.HDR.MULTi.DDP5.1.Atmos.AV1-CMZy-END.mkv",
-    "size": "5.21 GB",
-    "langs": "Multi Audio",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.zip",
-    "size": "5.44 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY3ZkNXA1NDVkYXZidWNl",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdmFWa29XTmFRZk5ieDhP",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.zip",
-    "size": "11.76 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbmdyeW4xdG1pMW4yeXlp",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNXhsM3c0SE9FeHZuUE83",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01E06.Dias.Irae.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
-    "size": "1.11 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveDR1NGZ4ZHdyY2RjZDFi",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdWZzbW1QcW5ObG92cVpV",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01E05.Nine.of.Swords.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
-    "size": "768.43 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMGUwbnV0YTByYnFncWZx",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdE5nOW5NbkkzVXpFTDlh",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01E04.Let.Me.Out.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
-    "size": "722.52 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvb2R0YmY1aHZ2aGt0bmgx",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcFFYeXZuaUZHNWZTZ2lE",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01E03.Murmurations.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
-    "size": "780.19 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcmtreWFnNnJ5eWN5OXlr",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQTZabEZCaWY0QWFjTVdm",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01E02.Grey.Starling.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
-    "size": "821.02 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdW5vd2thMWd1cmx1a2t2",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMngzM1p2VDd5M1h4WHBT",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01E01.Darling.Girl.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
-    "size": "1.31 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZ3V1YXFub2Fxb2phMXJ2",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYkw1dmRiYTYwbVZaVDJ0",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01E06.Dias.Irae.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
-    "size": "1.96 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcTZ1YWxlbnVwZGFwOWN4",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdXlMbkZWdmFYZFVHUUd2",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01E05.Nine.of.Swords.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
-    "size": "1.98 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMTZ0czQxaGpmbnZvczR2",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvT1M1b05ub3U3RlI1OXVM",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01E04.Let.Me.Out.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
-    "size": "1.98 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdTBjMjFibXRvODlkbWFm",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVlRqeFhIQklUU3JjNU5u",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01E03.Murmurations.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
-    "size": "1.96 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcTF1Mmo5cHN1aWlpamoy",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUEl2V3poYXVlZGZCd1hi",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01E02.Grey.Starling.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
-    "size": "1.94 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvampjcGNjdmp3YzB2czE2",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbWdSaG1QVU5kR0lqek5v",
-    "is_new": false
-  },
-  {
-    "name": "Playing.Gracie.Darling.S01E01.Darling.Girl.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
-    "size": "1.94 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY2F4MjFrMHhpcGZmZmlh",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaDlqNVM4aW5icnhVMUpK",
-    "is_new": false
-  },
-  {
-    "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.HDR.DUAL.DDP5.1.Atmos.H.265-CMZy-END.mkv",
-    "size": "752.79 MB",
-    "langs": "Multi Audio",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcWEwYThLYUg0NDZ4TmEz",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMDNia2VoMms5MjkxeXho",
-    "is_new": false
-  },
-  {
-    "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.HDR.DUAL.DDP5.1.Atmos.AV1-CMZy-END.mkv",
-    "size": "1.21 GB",
-    "langs": "Multi Audio",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvV1k4c0tKZlpndkw1eWpC",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveG9paGllNnp4bmV4aGFy",
-    "is_new": false
-  },
-  {
-    "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-CMZy-END.mkv",
-    "size": "772.22 MB",
-    "langs": "Multi Audio",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZzhUODZOMUVuMk1uZUNQ",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveXlrd3ByYWtrcnppdTF5",
-    "is_new": false
-  },
-  {
-    "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-CMZy-END.mkv",
-    "size": "897.47 MB",
-    "langs": "Multi Audio",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZXE0d1RZNDRSYVZubVpD",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdXZhMmg2ZzEyMTU5MW1t",
-    "is_new": false
-  },
-  {
-    "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-CMZy-END.mkv",
-    "size": "1005.52 MB",
-    "langs": "Multi Audio",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSFBUdHZMeGpUYXVabDc1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdXZhMmg2ZzEyMTU5MW1t",
-    "is_new": false
-  },
-  {
-    "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-CMZy-END.mkv",
-    "size": "1.47 GB",
-    "langs": "Multi Audio",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWERWVkZGWjdzYU0xUjVK",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdXZhMmg2ZzEyMTU5MW1t",
-    "is_new": false
-  },
-  {
-    "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.AV1-CMZy-END.mkv",
-    "size": "625.97 MB",
-    "langs": "Multi Audio",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvS0dlTllyeUJ5N05hNnVV",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbTFqamhkZDZqdHcxdHR5",
-    "is_new": false
-  },
-  {
-    "name": "Watchmen Chapter I (2024) 1080p BluRay 10bit x265 [Eng + Hin DDP 5.1 640kbps] ESub END!-Silence.mkv",
-    "size": "3.98 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdDFzcjJsMnR5MndzaHRt",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcUJMMld2bVVNTlc3U3Bx",
-    "is_new": false
-  },
-  {
-    "name": "Warcraft (2016) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 640kbps + NF Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - StOiC.mkv",
-    "size": "9.50 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdGxhdGx0ZXZ0enVycjFm",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvanh3VWoxZ1lNUkZTYlpE",
-    "is_new": false
-  },
-  {
-    "name": "Villains (2019) 1080p BluRay x264 [HI DDP 2.0 224Kbps + EN DD 5.1 640Kbps] ENSub - END! - BdC.mkv",
-    "size": "8.23 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbTZ1dTZzczJ6MHExMjNm",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMmhBYVhIbjNGVUVPSWds",
-    "is_new": false
-  },
-  {
-    "name": "Villains (2019) 1080p BluRay x264 [HI DDP 2.0 224Kbps + EN DD 5.1 448Kbps] ENSub - END! - nikt0.mkv",
-    "size": "4.01 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUva3B3enJjbHoweXByMG5y",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUlpOenBoSTJWUVRmVTFF",
-    "is_new": false
-  },
-  {
-    "name": "Vikram (2022) 1080p BluRay x264 [HI-TA-TE DDP Atmos 5.1 768Kbps + KA-MA DDP 5.1 192Kbps] ENSub - END! - KiNGSMAN.mkv",
-    "size": "23.60 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdzZsYzl2N2F4bjZuc3Zj",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNjNodVg4ODJtZ2VXc0dU",
-    "is_new": false
-  },
-  {
-    "name": "Vikram (2022) 1080p BluRay 10bit x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KA-MA DDP 5.1 192Kbps] MSubs - END! - NazzY.mkv",
-    "size": "6.30 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZ2llcTR4cnFza2phcmE5",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRjBTVXN3amRqMmNjdVFP",
-    "is_new": false
-  },
-  {
-    "name": "Vikram (2022) 1080p BluRay 10bit x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KA-MA DDP 5.1 192Kbps] MSubs - END! - Mr.X.mkv",
-    "size": "9.83 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMm5xYzFjYzB1cHh1cXFl",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcW1Kd011QTloYWhkb29G",
-    "is_new": false
-  },
-  {
-    "name": "Vikram (2022) 1080p BluRay 10bit x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KA-MA DDP 5.1 192Kbps] ENSub - END! - StOiC.mkv",
-    "size": "16.69 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbnFxY2Zhb2ZmYW9kbmQ0",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNXRKWTQ1NkJ1RDVmUVJW",
-    "is_new": false
-  },
-  {
-    "name": "Vikram (2022) 1080p BluRay 10bit x265 [HI-TA-TE DDP Atmos 5.1 768 Kbps + KA-MA DDP 5.1 192Kbps] ENSub - END! - ANNi.mkv",
-    "size": "8.04 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbGhzc2xyc3hqZWpzbHRm",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWWExMHJYU2FQa25hSVZ0",
-    "is_new": false
-  },
-  {
-    "name": "Vikram (2022) 1080p BluRay 10bit x265 [HI DDP Atmos 5.1 768Kbps] ENSub - END! - StOiC.mkv",
-    "size": "14.40 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdHRsZ2w5c2U5a2doamE1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdW1LUWl5NzRQS1pWQVhU",
-    "is_new": false
-  },
-  {
-    "name": "Vikram (2022) 1080p BluRay 10bit Atmos x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KA-MA DDP 5.1 192Kbps] MSubs - END! - The.PunisheR.mkv",
-    "size": "9.37 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMHV5cnR1eTh0cmh5emls",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvejB4MjMzZUU0NUtEVkpo",
-    "is_new": false
-  },
-  {
-    "name": "Vaanam.2011.1080p.BluRay.REMUX.AVC.Tamil.DTS-HD.MA.5.1.ESub-END.mkv",
-    "size": "32.62 GB",
-    "langs": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdnFhdmt5OGN1Z3M4Z2Z2",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZXpreUY4a1o0QnplVFZk",
-    "is_new": false
-  },
-  {
-    "name": "Twilight (2008) 1080p BluRay REMUX x264 [HI-MR-TA-TE DDP 5.1 640Kbps + EN TrueHD Atmos 7.1] ENSub - END! - FraMeSToR.mkv",
-    "size": "33.91 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcmtqZGJpd293anJyamo1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUThRU1AyWDc0MGNTUkxy",
-    "is_new": false
-  },
-  {
-    "name": "Twilight (2008) 1080p BluRay 10bit x265 [EN-HI-MR-TA-TE DDP 5.1 640Kbps] ENSub - END! - iVy.mkv",
-    "size": "5.60 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYjlxYmV2aGtqemdtdmRk",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYzhWRmowc0duQUVlc3Vi",
-    "is_new": false
-  },
-  {
-    "name": "Thunderbolts (2025) 1080p 10bit BluRay x265 [Eng DDP5.1 640kbps + JHS Hin-Tam-Tel DDP5.1 192kbps] ESub - END! - ANNi.mkv",
-    "size": "6.09 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMnhhMXU4dGJ1eDRmbmpj",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVFcwVkVKS1kxZDdlcFJj",
-    "is_new": false
-  },
-  {
-    "name": "Thunderbolts (2025) 1080p 10bit BluRay x265 MULTi DDP5.1 ESub - END! - ANNi.mkv",
-    "size": "6.09 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveXJvcnRiYm02ejk5dGRy",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTXJxUFpTTVdkc1NrVXdV",
-    "is_new": false
-  },
-  {
-    "name": "Thunderbolts (2025) 1080p 10bit BluRay x265 [Eng DDP Atmos 7.1 1280Kbps + JHS Hin-Tam-Tel DDP5.1 192kbps] ESub - END! - StOiC.mkv",
-    "size": "5.68 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvd2lveG5jY25ndGdieHBi",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdnc0Z1BDN2tKRWY3QThq",
-    "is_new": false
-  },
-  {
-    "name": "They Call Him OG (2025) 1080p NF WEBRip 10bit x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KN-ML DDP 5.1 640Kbps] ESub - END! - The.PunisheR.mkv",
-    "size": "9.01 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdnhxZnRxam9jb2V0cmlh",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSmN4MjJvQUNlWjN0QTRM",
-    "is_new": false
-  },
-  {
-    "name": "They Call Him OG (2025) 1080p DS4K NF WEBRip 10bit x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KN-ML DDP 5.1 640Kbps] ENSub - END! - Mr.X.mkv",
-    "size": "9.25 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvajMwMDFxbXh4Z25lbm54",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvT3lRWlA3N1FJRmd0MXFv",
-    "is_new": false
-  },
-  {
-    "name": "They Call Him OG (2025) 1080p 10bit DS4K NF WEBRip x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KN-ML DDP 5.1 640Kbps] ESub - END! - NazzY.mkv",
-    "size": "6.59 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvenVrMXVvdHlyN3FpY3J5",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSnRnaGFlTHJkcDdsWEE4",
-    "is_new": false
-  },
-  {
-    "name": "They Call Him OG (2025) 1080p 10bit DS4K NF WEBRip x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KN-ML DDP 5.1 640Kbps] ESub - END! - ANNi.mkv",
-    "size": "8.66 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYTl6Y2N0cGpjY3QxMTAw",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvN0MxblM5WFgzMVJTdnl6",
-    "is_new": false
-  },
-  {
-    "name": "The Mask (1994) 1080p BluRay x265 [HIN DD 5.1 448Kbps + ENG AAC 5.1] ENSub - END! - BONE.mkv",
-    "size": "2.01 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdWE0N2F1aWxhOGV5emJ2",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRXNzZ25rdjJsejcwRkJN",
-    "is_new": false
-  },
-  {
-    "name": "The Mask (1994) 1080p BluRay 10bit x265 [HI AAC 2.0 132Kbps + HI DD 5.1 448Kbps + EN DDP Atmos 5.1 768Kbps] ENSub - END! - StOiC.mkv",
-    "size": "7.87 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZjFlc2h1dTFqeWVieTV2",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYk5oS0FmRkMzVmhON3Bo",
-    "is_new": false
-  },
-  {
-    "name": "The Gateway (2021) 1080p BluRay REMUX x264 [HI DDP 2.0 224Kbps + EN DTS-HD MA 5.1 3349Kbps + EN DTS 5.1 1509Kbps] MSubs - END! - UnKn0wn.mkv",
-    "size": "20.57 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "W3NhbmRpZ2RoIGxpbmsgaGF0YSBkaXlhIGdheWFd",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUzgxTjE0Y0tMWHczcXVl",
-    "is_new": false
-  },
-  {
-    "name": "The Fantastic Four First Steps (2025) 1080p JHS WEB-DL x265 [HI-TA-TE DDP 5.1 192Kbps + EN DDP Atmos 5.1 768Kbps] MSubs - END.mkv",
-    "size": "2.70 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY2FvcmRwZTV3aXpmcHJy",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdXljVldsOXJzZXdkZnBq",
-    "is_new": false
-  },
-  {
-    "name": "The Fantastic Four First Steps (2025) 1080p BluRay 10bit x265 [JHS HI-TA-TE DDP 5.1 192Kbps + EN DDP 7.1 1536Kbps] ENSub - END! - StOiC.mkv",
-    "size": "9.11 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaXBkZG9vc2RwZ3VnZHdn",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcXZUUHdqYmdhOXltZVdy",
-    "is_new": false
-  },
-  {
-    "name": "The Fantastic Four First Steps (2025) 1080p BluRay 10bit x265 [HI-TA-TE DDP 5.1 192Kbps + EN DDP 5.1 384Kbps] ENSub - END! - ANNi.mkv",
-    "size": "5.61 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdHJtYng2N2RkZTBqamJ4",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNlhvcnRoZ0ZVQTh6QjY5",
-    "is_new": false
-  },
-  {
-    "name": "The Fall Guy (2024) 1080p BluRay REMUX x264 [HI DDP 5.1 640Kbps + BE-HI-KA-MR-TA-TE AAC 2.0 192Kbps + EN TrueHD Atmos 7.1 2884Kbps + EN DD 5.1 448Kbps + EN DD 2.0 192Kbps] ENSub - END! - CiNEPHiLES.mkv",
-    "size": "24.14 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcThveTcxZm1uN2J5eXNu",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUveGRkVGo2NEgxdEtNeW1I",
-    "is_new": false
-  },
-  {
-    "name": "The Bad Guys 2 (2025) 1080p 10bit BluRay x265 [Eng DDP 7.1 1536Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - StOiC.mkv",
-    "size": "7.94 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZTFuZWluN2VrY2Mxa2Rp",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWk1WcGdja3Zub1RZZWNr",
-    "is_new": false
-  },
-  {
-    "name": "Superman (2025) 1080p 10bit DS4K iT WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - NmCT.mkv",
-    "size": "9.30 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "W3NhbmRpZ2RoIGxpbmsgaGF0YSBkaXlhIGdheWFd",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMzRZVDVuamFhdkVuS3M0",
-    "is_new": false
-  },
-  {
-    "name": "Superman (2025) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - StOiC.mkv",
-    "size": "6.95 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcTBtcnNzazZ0ZzB4Nm1y",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZ094bGh0Yk15M2RRbW5a",
-    "is_new": false
-  },
-  {
-    "name": "Superman (2025) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - ANNi.mkv",
-    "size": "10.19 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbXVhazBrZ21ycWdtdDF1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQXNXQURrTm5Td01ROXBy",
-    "is_new": false
-  },
-  {
-    "name": "Superman (2025) 1080p 10bit DS4K AMZN WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - DNU-TAoE.mkv",
-    "size": "10.29 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNGoweWdjam5qenNuNGd4",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVW9rSnJxazBCWHJtcWF0",
-    "is_new": false
-  },
-  {
-    "name": "Smurfs (2025) 720p AMZN WEB-DL x264 [Eng DD+5.1 Atmos 768kbps + Hin DD+5.1 640kbps] ESub END!-BYNDR.mkv",
-    "size": "3.06 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYXYxYWpydDIxcXBwMXpi",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSWhUU3NkQk1XdWJzY1A2",
-    "is_new": false
-  },
-  {
-    "name": "Smurfs (2025) 2160p AMZN WEB-DL x265 [Eng DD+5.1 Atmos 768kbps + Hin DD+5.1 640kbps] ESub END!-BYNDR.mkv",
-    "size": "10.21 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaHM4eWhuM3lvaHZ4aHF2",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbFNGUGlmM0VjTTNLQkVq",
-    "is_new": false
-  },
-  {
-    "name": "Smurfs (2025) 1080p BluRay x264 [AMZN HI DDP5.1 640kbps + EN DDPA5.1 1024kbps] ESub - END! - hallowed.mkv",
-    "size": "6.05 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcGtiZGt5NzAxc2Fzam14",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOXM2R3lYWHFGb0s5UlVn",
-    "is_new": false
-  },
-  {
-    "name": "Smurfs (2025) 1080p BluRay x264 [AMZN HI DDP5.1 640kbps + EN AAC5.1 384kbps] - END! - YTS.mkv",
-    "size": "2.06 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbDlibHpjNmJibGRpYnpl",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVmVZSVNiMmRrbk1mWVJQ",
-    "is_new": false
-  },
-  {
-    "name": "Smurfs (2025) 1080p BluRay REMUX x264 [AMZN HIN DDP5.1 640kbps + ENG Dolby TrueHD Atmos 7.1 2958kbps] ESub - END! - RFX.mkv",
-    "size": "20.71 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvanBpdHY0anN2bGpqZ3V5",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUzFSZEFwWnh3YzJwanh2",
-    "is_new": false
-  },
-  {
-    "name": "Smurfs (2025) 1080p AMZN WEB-DL x264 [Eng DD+5.1 Atmos 768kbps + Hin DD+5.1 640kbps] ESub END!-BYNDR.mkv",
-    "size": "4.86 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcGtoZ2J5bnNvY3BzeTEy",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvT01rYnNkd0xSdGNBRkN6",
-    "is_new": false
-  },
-  {
-    "name": "Saaho.2019.1080p.JPN.BluRay.REMUX.AVC.Telugu.DTS-HD.MA.5.1-END.mkv",
-    "size": "27.79 GB",
-    "langs": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMXBqZmZlc2ZteWRzZXdt",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTFRjaTdqMDVsT1hzZHAz",
-    "is_new": false
-  },
-  {
-    "name": "Rangasthalam (2018) 720p 10bit BluRay x265 [Hindi TV-DL DDP2.0 192kbps + Telugu AMZN DDP2.0 192Kbps] ESub - END! - NEMESiS.mkv",
-    "size": "1.58 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcXA2eTVlYTV5cXMweWZw",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNThmVVBBSkZnMEpBVVB3",
-    "is_new": false
-  },
-  {
-    "name": "Rangasthalam (2018) 720p 10bit BluRay x265 [Hindi TV-DL DD2.0 448kbps + Telugu AMZN DDP5.1 192kbps] ESub - END! - NEMESiS.mkv",
-    "size": "1.89 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbmVwbnVkdTFwdTFyMGNh",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcnlicHJCcTUzVmc0S0dE",
-    "is_new": false
-  },
-  {
-    "name": "Rangasthalam (2018) 1080p 10bit BluRay x265 [Hindi TV-DL DD2.0 448kbps + Telugu AMZN DDP5.1 640kbps] ESub - END! - NEMESiS.mkv",
-    "size": "3.99 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveGpteDQybTZ4amRtb3ht",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZ1NGZGJqRzVieWxjY0hi",
-    "is_new": false
-  },
-  {
-    "name": "Rangasthalam (2018) 1080p 10bit BluRay x265 [Hindi FLAC2.0 TV-DL + AMZN Telugu DDP5.1 640kbps] ESub - END! - NEMESiS.mkv",
-    "size": "4.14 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvM3MzOTExNjgxbjFnMTF2",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaVRHbzFuQXl6c2xKc0Jx",
-    "is_new": false
-  },
-  {
-    "name": "RRR - Rise Roar Revolt (2022) 1080p IMAX DS4K BluRay 10bit HDR10 Atmos x265 [HI DDP Atmos 5.1 768Kbps + KA-MA-TA DDP Atmos 5.1 448Kbps + TE DDP Atmos 5.1 1024Kbps + EN DDP 5.1 640Kbps] ENSub - END! - The.PunisheR.mkv",
-    "size": "15.01 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvOWk5c3J6a3JmOWxsYTlp",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvb0MwZmV0SXhBQmZmalJD",
-    "is_new": false
-  },
-  {
-    "name": "Project Silence (2023) 1080p BluRay 10-Bit HEVC (Multi-Audio) [Korean-Hindi-Tamil-Telugu DD+2.0 224kbps] (ORG AMZN Auds) ESub - END! - StOiC.mkv",
-    "size": "5.42 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \ud55c\uad6d\uc5b4",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNGV0bXdsMXJyNGpyNndu",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTXJseUg1STlpM0NLZEt3",
-    "is_new": false
-  },
-  {
-    "name": "Project Silence (2023) 1080p BluRay 10-Bit HEVC (Multi-Audio) [Kor DD+ 7.1 1536Kbps + Eng DD+ 5.1 768kbps + AMZN Hindi-Tamil-Telugu DD+2.0 224kbps] ESub - END! - StOiC.mkv",
-    "size": "6.82 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \ud55c\uad6d\uc5b4",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYm9ldW5hY2VldXJyd29v",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMk5uN3ZOazZuSTAyYjNt",
-    "is_new": false
-  },
-  {
-    "name": "Oggy and the Cockroaches The Movie (2013) 1080p BluRay x264 [HI DDP 2.0 224Kbps + FR DTS 5.1 768Kbps] - END! - ROUGH.mkv",
-    "size": "4.51 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdnZwZnZkeGQxdDV3Zng1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdVhyYzJwcmdkdVpONVZr",
-    "is_new": false
-  },
-  {
-    "name": "Oggy and the Cockroaches The Movie (2013) 1080p BluRay REMUX x264 [HI DDP 2.0 224Kbps + FR DTS-HD MA 5.1 1561Kbps] - END! - KRaLiMaRKo.mkv",
-    "size": "14.71 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbWp3MHNzbWszaHZlMXZk",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYzJZalk1RWlVS25ldDF1",
-    "is_new": false
-  },
-  {
-    "name": "Oggy and the Cockroaches The Movie (2013) 1080p BluRay 10bit x265 [HI DDP 2.0 224Kbps + FR AAC 5.1 384Kbps] - END! - Koyumu.mkv",
-    "size": "1.96 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZHMzb3M3amlzNjUwemw1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdWZBaEQ4M1JrNnlaYVM0",
-    "is_new": false
-  },
-  {
-    "name": "Nobody 2021 720p 10bit HEVC BluRay Dual Hindi & English ESub x265 - END! - PSA.mkv",
-    "size": "879.61 MB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "W3NhbmRpZ2RoIGxpbmsgaGF0YSBkaXlhIGdheWFd",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaEpNSWdFbGtSeXVpN2RU",
-    "is_new": false
-  },
-  {
-    "name": "Nobody 2021 1080p 10bit HEVC BluRay Dual Hindi & English ESub x265 - END! - PSA.mkv",
-    "size": "1.94 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvN3JpanVqdzdpZGw3anlv",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYVdTemlkT3BrZWRCVE5z",
-    "is_new": false
-  },
-  {
-    "name": "Nobody 2 (2025) 1080p 10bit DS4K iTunes WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - The.PunisheR.mkv",
-    "size": "3.27 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYXJ6ZHg2cGVzcHlzdXV1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvclJuUjdhdjdUeVQ3bzRl",
-    "is_new": false
-  },
-  {
-    "name": "Nobody 2 (2025) 1080p 10bit DS4K iTunes WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - DaddyCooL.mkv",
-    "size": "4.63 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMWF2dnI2Zm4xdGFhZm5i",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvanIxcncxUzQ1Y2xCclFo",
-    "is_new": false
-  },
-  {
-    "name": "Nobody 2 (2025) 1080p 10bit DS4K AMZN WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - NazzY.mkv",
-    "size": "3.18 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZGJmejFiYXJiZnJmdHpo",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNVdGUEFhQ1JTeGtlS2FE",
-    "is_new": false
-  },
-  {
-    "name": "Nobody 2 (2025) 1080p 10bit DS4K AMZN WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - DNU-TAoE.mkv",
-    "size": "2.41 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvd3drbXByMTFjNTZyZXBw",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVlBWNzM3cXpDR2lsV2R5",
-    "is_new": false
-  },
-  {
-    "name": "Nobody 2 (2025) 1080p 10bit DS4K AMZN WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - ANNi.mkv",
-    "size": "3.35 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvczJ4eGtham5qNzdsZTFi",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTmdsSjYwMkk4ZTVHU0pm",
-    "is_new": false
-  },
-  {
-    "name": "Nobody 2 (2025) 1080p 10bit BluRay x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - StOiC.mkv",
-    "size": "4.37 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZWlzbGpvbHVhamxhaWVk",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaFp4R1UxYURzdlUwc2ox",
-    "is_new": false
-  },
-  {
-    "name": "Nobody (2021) 1080p 10bit BluRay x265 [Eng DDP7.1 1024kbps + AMZN Hin DDP5.1 640kbps] MSubs - END! - Ralphy.mkv",
-    "size": "4.66 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveXNuampnOWthZDFzb295",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMUlyeUJUMEpuZEkxa0Vh",
-    "is_new": false
-  },
-  {
-    "name": "Nobody (2021) 1080p 10bit BluRay x265 [Eng DDP7.1 1024kbps + AMZN Hin DDP5.1 640kbps] ESubs - END! - Ralphy.mkv",
-    "size": "4.66 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUva25qZnd5eXFld2FneTVr",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSjVRRHkzT1hhTnphSDZs",
-    "is_new": false
-  },
-  {
-    "name": "Ne Zha 2 (2025) 2160p 10bit SDR WEBRip x265 [Mandarin DDP Atmos 5.1 448kbps + iT Hindi DD5.1 384kbps] MSubs - END!.mkv",
-    "size": "10.54 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaXN4bHhucHBzZnNnb3lo",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRWs4U1NOTjhzTTVrdGQ1",
-    "is_new": false
-  },
-  {
-    "name": "Ne Zha 2 (2025) 1080p 10bit DS4K iT WEBRip x265 [Hin DD5.1 384kbps + Eng DDP5.1 Atmos 768kbps] ESub - END! - StOiC.mkv",
-    "size": "6.37 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZXFyMm5ldmUwY295bzF1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRUlFZlFrWGNoNzRubFdV",
-    "is_new": false
-  },
-  {
-    "name": "Ne Zha 2 (2025) 1080p 10bit DS4K WEBRip x265 [Mandarin DDP Atmos 5.1 448kbps + iT Hin DD5.1 384kbps] ESub - END! - NazzY.mkv",
-    "size": "5.42 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZDJmOXBxYzExanB4ZWVy",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNVFtYTFseDNvbTdLZDQz",
-    "is_new": false
-  },
-  {
-    "name": "Ne Zha 2 (2025) 1080p 10bit DS4K WEBRip [Mandarin DDP Atmos 5.1 448kbps + iT Hindi DD5.1 384kbps] MSubs - END! - Mr.X.mkv",
-    "size": "9.96 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcWw1dTVkcWJvNXFsbHFm",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUkZ4UnEzQzJpbkNxZHdY",
-    "is_new": false
-  },
-  {
-    "name": "My Neighbor Totoro - Tonari no Totoro (1988) 1080p BluRay REMUX x264 [HI DDP 2.0 128Kbps + EN DD 2.0 192Kbps + JPX DTS-HD MA 2.0 2092Kbps] MSubs - END! - LEGi0N.mkv",
-    "size": "24.57 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMnA4cWRkdXR2cXVrdHVy",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOHZ5c0ttOEJyRENobGFE",
-    "is_new": false
-  },
-  {
-    "name": "My Neighbor Totoro - Tonari no Totoro (1988) 1080p BluRay 10bit x265 [HI DDP 2.0 128Kbps + EN DD 2.0 192Kbps + JA DTS-HD MA 2.0 2092Kbps] MSubs - END! - Kira.mkv",
-    "size": "12.94 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaXpnaGR1enplenplc2xl",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSklmeERpR1JucnpmRG9T",
-    "is_new": false
-  },
-  {
-    "name": "My Neighbor Totoro - Tonari no Totoro (1988) 1080p BluRay 10bit x265 [HI DDP 2.0 128Kbps + EN DD 2.0 192Kbps + JA DD 2.0 320Kbps] MSubs - END! - FRDS.mkv",
-    "size": "4.89 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYWlyMWd4anN6ZXU0emU5",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOVRvaENJcTZBaDZGODNE",
-    "is_new": false
-  },
-  {
-    "name": "My Neighbor Totoro - Tonari no Totoro (1988) 1080p BluRay 10bit x265 [HI DDP 2.0 128Kbps + EN AAC 2.0 430Kbps + JA AAC 2.0 424Kbps] MSubs - END! - Prof.mkv",
-    "size": "3.36 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvenF1dGhibG1wbGx6Ymhn",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRURFZVJCSnhjanU0dTJh",
-    "is_new": false
-  },
-  {
-    "name": "Monster Summer (2024) 1080p BluRay x264 [Hin-Tam-Tel DDP 5.1640Kbps + RU DDP5.1 384Kbps + EN DD5.1 640Kbps] MSubs - END! - MegaPeer.mkv",
-    "size": "9.43 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZ3dnejRzd2dtYjZveDR1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaEw3ZTlnZkN5RXAxRjdw",
-    "is_new": false
-  },
-  {
-    "name": "Monster Summer (2024) 1080p BluRay REMUX x264 [Hin-Tam-Tel DDP 5.1 640Kbps + EN DTS-HD MA 5.1 2064Kbps + DE DTS-HD MA 5.1 2078Kbps] MSubs - END! - Aisha.mkv",
-    "size": "26.82 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcm1yeDExaG9qam9saGg0",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYVB4SW05S3lLTVlESmhr",
-    "is_new": false
-  },
-  {
-    "name": "Monster Summer (2024) 1080p BluRay 10bit x265 [Hin-Tam-Tel DDP 5.1 640Kbps + RU AAC 5.1 384Kbps] - END! - LAMA.mkv",
-    "size": "2.96 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdXRxcHU2MWxucHd1Znd1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaG5BYUN4WnlnUk92cFc0",
-    "is_new": false
-  },
-  {
-    "name": "Mononoke The Movie Chapter II The Ashes of Rage (2025) 1080p NF WEB-DL x264 [Hin + Eng + Jap DDP5.1 640kbps] MSubs - END!-VARYG.mkv",
-    "size": "3.63 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdGp4NjRucW0xb244cmht",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWFhKMHY5QkdoWnlJOHBa",
-    "is_new": false
-  },
-  {
-    "name": "Mononoke The Movie Chapter I Phantom In The Rain (2024) 1080p NF WEB-DL x264 [Hin + Eng + Jap DDP5.1 640kbps] MSubs - END!-VARYG.mkv",
-    "size": "4.37 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcmc0ZXJ0NHFuNHlodGF1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWHJiOXZxcmhTS0FQeFRX",
-    "is_new": false
-  },
-  {
-    "name": "Mononoke The Movie Chapter I Phantom In The Rain (2024) 1080p 10bit NF WEBRip x265 [Hin + Eng + Jap DDP5.1 640kbps] ESub - END!-Rapta.mkv",
-    "size": "3.92 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcmZvenI4OGF1ajFhbm96",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMmFMRHBqSHI0N3RkaVBt",
-    "is_new": false
-  },
-  {
-    "name": "Mission Impossible The Final Reckoning (2025) IMAX 1080p 10bit DS4K iT WEBRip [Eng DDP Atmos 5.1 768Kbps + AMZN Hindi-Tamil-Telugu DDP5.1 640kbps] ESub - END! - StOiC.mkv",
-    "size": "9.16 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZGxpempoZDdsYWRlZGdk",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYnplckhVQUJoZlFCNFFy",
-    "is_new": false
-  },
-  {
-    "name": "Mission Impossible The Final Reckoning (2025) IMAX 1080p 10bit BluRay x265 [Eng DDP 7.1 1536Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - StOiC.mkv",
-    "size": "15.84 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveHVwZ3lnY3RnMnhpMW9w",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWGswOUIyRlN3WkE1RG9C",
-    "is_new": false
-  },
-  {
-    "name": "Mission Impossible The Final Reckoning (2025) 2160p 10bit HDR WEBRip IMAX x265 [Hin + Tam + Tel + Eng (AMZN DDP5.1 640kbps)] ESub - END! - Lootera.mkv",
-    "size": "11.97 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdHRjdXQwZ2IxYmJ5bW1m",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvU3ZIN3BwWVVNcDRCVTFr",
-    "is_new": false
-  },
-  {
-    "name": "Mission Impossible The Final Reckoning (2025) 1080p IMAX UHD SDR BluRay 10bit x265 [HI-TA-TE DDP 5.1 640Kbps + EN DDP 5.1 768Kbps] ENSub - END! - ViTO.mkv",
-    "size": "7.91 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYnlvYnZ4czlrc3lnYnl5",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTWhBYUU2N2FXRHd3MEc0",
-    "is_new": false
-  },
-  {
-    "name": "Mission Impossible The Final Reckoning (2025) 1080p IMAX UHD BluRay HDR10 10bit DV x265 [HI-TA-TE DDP 5.1 640Kbps + EN DDP 5.1 768Kbps] ENSub - END! - ViTO.mkv",
-    "size": "15.37 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvc3FkdzM5cHM4cGV1Zmlt",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvY20zSUIxZU5yaHZqQWha",
-    "is_new": false
-  },
-  {
-    "name": "Mission Impossible The Final Reckoning (2025) 1080p IMAX 10bit WEBRip x265 [Hin + Tam + Tel + Eng (AMZN DDP5.1 192Kbps)] ESub - END! - Lootera.mkv",
-    "size": "3.90 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveGYxcm96MXpubmZqeG54",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVXBzREx1Ynd3bGtLMVNs",
-    "is_new": false
-  },
-  {
-    "name": "Mission Impossible The Final Reckoning (2025) 1080p 10bit WEBRip x265 [Hin + Tam + Tel + Eng (AMZN DDP5.1 640kbps)] ESub - END! - UKBandit.mkv",
-    "size": "7.08 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZXNycnZ2ZWQ4cTV0ZGpl",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcURzQUVJTENacmQxRU56",
-    "is_new": false
-  },
-  {
-    "name": "Mission Impossible The Final Reckoning (2025) 1080p 10bit WEBRip x265 [Hin + Tam + Tel + Eng (AMZN DDP5.1 640kbps)] ESub - END! - DH.mkv",
-    "size": "8.37 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMTRkMWI0aDE0YXBwbG80",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMjZkdzRjZEEzRHVlVHlX",
-    "is_new": false
-  },
-  {
-    "name": "Mission Impossible The Final Reckoning (2025) 1080p 10bit WEBRip x265 [Hin + Tam + Tel + Eng (AMZN DDP5.1 192kbps)] ESub - END! - NeoNoir.mkv",
-    "size": "3.42 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdTNreXRwc2duZ3Bycmpw",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTTYzZXQzemdlWmxNa2Ux",
-    "is_new": false
-  },
-  {
-    "name": "Mission Impossible The Final Reckoning (2025) 1080p 10bit iTunes WEBRip IMAX x265 [Hin-Tam-Tel-Eng (AMZN DDP5.1 192Kbps)] ESub END!.mkv",
-    "size": "2.34 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvb3l3dDFkeDh1bXdtaW9t",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNmFpUWtPWlBrZGNsMEdR",
-    "is_new": false
-  },
-  {
-    "name": "Materialists (2025) 1080p 10bit BluRay x265 [Eng DDP Atmos 5.1 768kbps + NF Hin-Tam-Tel DDP5.1 640kbps] ESub - END! - StOiC.mkv",
-    "size": "10.85 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcTlsa3Y3bHFta3I3bGd1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYkF2N3pZaWg0ZEpoNjFz",
-    "is_new": false
-  },
-  {
-    "name": "Materialists (2025) 1080p 10bit BluRay x265 [Eng DDP Atmos 5.1 768kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - StOiC.mkv",
-    "size": "9.81 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcXZxeHd3Ym85dnpncHhw",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUva3B2YWJCTFVTUjZTbDN4",
-    "is_new": false
-  },
-  {
-    "name": "Materialists (2025) 1080p 10bit BluRay x265 [Eng DDP 7.1 1024kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - Chivaman.mkv",
-    "size": "5.39 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZXF0OWEwcHBvc3BvcWFv",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdUxIWEdxT2RUNXl1eWpB",
-    "is_new": false
-  },
-  {
-    "name": "Maareesan.2025.1080p.10bit.DS4K.NF.WEBRip.MULTi.DDP.5.1.ESub.x265-END-StOiC.mkv",
-    "size": "7.21 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY3kxM250dW5xa2RwMTFh",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaDZQWTRIWlM5aENocmFK",
-    "is_new": false
-  },
-  {
-    "name": "Maareesan (2025) 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 ESub x265 - END! - ANNi.mkv",
-    "size": "7.57 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcHR6ZXp2aHBwb3Rid25i",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZ1FwNzhROXZLbzA1QWgy",
-    "is_new": false
-  },
-  {
-    "name": "Love Hurts (2025) 1080p BluRay 10bit x265 [DD5.1 640kbps Eng + AAC 2.0 128kbps Hin] ESub - END!.mkv",
-    "size": "3.86 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZWJ3ZTF2c3R0d2Yxd2Vl",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYUN1UXlDdjZaMGVhQWJ3",
-    "is_new": false
-  },
-  {
-    "name": "Lokah Chapter 1 Chandra (2025) 1080p DS4K HS WEBRip 10bit x265 [HI-KA-MA-TA-TE DDP Atmos 5.1 768Kbps + MR AAC 2.0 768Kbps + BE DDP 5.1 192Kbps] ENSub - END! - StOiC.mkv",
-    "size": "10.43 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY2s3d2J4Ym8xcng0eHJ5",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZmJoaU5QdWJjd0NNYkk3",
-    "is_new": false
-  },
-  {
-    "name": "Lilo & Stitch (2025) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 768kbps + JHS Hin-Tam-Tel DDP5.1 192kbps] ESub - END! - StOiC.mkv",
-    "size": "5.60 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZjN0cjJwcmY1Z2l0ZDB5",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVGRjdHJLMzhTdjVDNTA4",
-    "is_new": false
-  },
-  {
-    "name": "Knock Knock (2015) 1080p BluRay 10bit DV HDR x265 [HI-TA-TE DDP5.1 640Kbps + EN DDP Atmos 5.1 768Kbps] ESub - END! - StOiC.mkv",
-    "size": "9.77 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvOHZ3cDJnZnA2cWIydnJw",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvemlUcU9PY01sSEF1NDBE",
-    "is_new": false
-  },
-  {
-    "name": "Kadaram Kondan (2019) 1080p AMZN WEB-DL x264 [HI DDP 2.0 192Kbps + TA DDP 5.1 640Kbps] MSubs - END! - ExtraFlix.mkv",
-    "size": "7.06 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNXJhcmFjMXZoOGhqODZw",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvT2pQNVdaczJiaWNxQnJp",
-    "is_new": false
-  },
-  {
-    "name": "K.G.F: Chapter 2 (2022) 1080p BluRay REMUX x264 [Kannada DTS-HD MA 5.1 + AMZN Hin DDP5.1 640kbps] JSub - END! - DTiNS - ANNi.mkv",
-    "size": "32.93 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUva2VneHJ2MXV1dXRnZ2U5",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcVJxSkJ3S1NhR1luVFc2",
-    "is_new": false
-  },
-  {
-    "name": "K.G.F: Chapter 1 (2018) 1080p BluRay REMUX [Kannada DTS-HD MA 5.1 + AMZN Hin DDP5.1 640kbps] JSub - END! - ANNi.mkv",
-    "size": "31.66 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvc3lodGc4M3NoeWllM2cz",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWEtJVEZIMDFGNktMRFFK",
-    "is_new": false
-  },
-  {
-    "name": "K.G.F Chapter 2 (2022) 1080p BluRay x265 [HI DDP 5.1 640Kbps + KA DDP 5.1 384Kbps] ENSub - END! - Pahe.in.mkv",
-    "size": "3.72 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbW8zemZzdmYzMW1mZmNh",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUva2g4djQ2cU5Oc043Rmlj",
-    "is_new": false
-  },
-  {
-    "name": "K.G.F Chapter 2 (2022) 1080p 10bit HEVC BluRay MULTi DDP5.1 MSubs x265 - END! - StOiC.mkv",
-    "size": "12.26 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcmpia2h2anl6MjJnZ2l1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQlpiRlJZSEJTaUIxWTR3",
-    "is_new": false
-  },
-  {
-    "name": "K.G.F Chapter 2 (2022) 1080p 10bit BluRay x265 [Hin DDP5.1 640kbps + Kan DDP5.1 768kbps] ESub - END! - StOiC.mkv",
-    "size": "10.03 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "W3NhbmRpZ2RoIGxpbmsgaGF0YSBkaXlhIGdheWFd",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNDFLU0NHMkFXOWlnYTRn",
-    "is_new": false
-  },
-  {
-    "name": "K.G.F Chapter 1 (2018) 1080p BluRay x265 [HI DDP 5.1 640Kbps + KA DDP 5.1 384Kbps] ENSub - END! - Pahe.in.mkv",
-    "size": "3.72 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNDR3bjF1cHFlamNxam50",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNzNqOWd1Z1ZBQzJ2SUdl",
-    "is_new": false
-  },
-  {
-    "name": "K.G.F Chapter 1 (2018) 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - StOiC.mkv",
-    "size": "13.48 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbW55MW54aWF5MGNubGxh",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWkdqOE9GOE1pcmNLNmJT",
-    "is_new": false
-  },
-  {
-    "name": "K.G.F Chapter 1 (2018) 1080p 10bit BluRay x265 [Hin DDP5.1 640kbps + Kan DDP5.1 768kbps] ESub - END! - StOiC.mkv",
-    "size": "11.41 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvazIyeDJ4NHgxdHR4eDRv",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUveEJiWHV2ZlB6QXB4SXVE",
-    "is_new": false
-  },
-  {
-    "name": "Jurassic World Rebirth (2025) 1080p 10bit BluRay x265 [AMZN Hin-Tam-Tel DDP5.1 640kbps + Eng DDP5.1 Atmos 1280kbps] ESub - END! - StOiC.mkv",
-    "size": "9.45 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaWtqaG9ycDAwcnAwMTN4",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZ1RkV1RacE1pbzAycnA3",
-    "is_new": false
-  },
-  {
-    "name": "How To Train Your Dragon (2025) 1080p BluRay IMAX 10bit x265 [TrueHD 7.1 Atmos Eng + AMZN DD+ 5.1 640kbps Hin+Tam+Tel] ESub - END!.mkv",
-    "size": "9.77 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvejZ5cG9teW1hd29kZHJy",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUzlNb0NQSTBQeFYwTjFt",
-    "is_new": false
-  },
-  {
-    "name": "How To Train Your Dragon (2025) 1080p BluRay IMAX 10bit HEVC [Eng DDP7.1 Atmos 1280kbps + Hin+Tam+Tel AMZN DDP5.1 640kbps] ESub - END! - StOiC.mkv",
-    "size": "8.44 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNmwwbDNmNjYxczB4Y2kz",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdkVtOUdXRU9Fa1FqTE9r",
-    "is_new": false
-  },
-  {
-    "name": "Haikyu!! The Dumpster Battle (2024) 1080p 10bit HEVC BDRip JPN-ENG-HIN MSubs x265 - END! - Sam.mkv",
-    "size": "16.10 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNGFqZWFhYXZyZWFnZW1l",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVDEydDR6emJDc3Z6ZkU3",
-    "is_new": false
-  },
-  {
-    "name": "Haikyu!! The Dumpster Battle (2024) 1080p 10bit BDRip x265 [Hin DDP2.0 224kbps + Jap TrueHD7.1 Atmos + Jap FLAC2.0 + Eng DDP2.0 224kbps] ESub - END! - sam.mkv",
-    "size": "16.09 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZG9tNWZmNW0xcTExNGRv",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRTJraWFqODZPRWM5Q3JI",
-    "is_new": false
-  },
-  {
-    "name": "Goosebumps 2 Haunted Halloween (2018) 1080p BluRay REMUX x264 [HI-TA-TE DDP 5.1 640Kbps + EN DTS-HD MA 5.1 1970Kbps] ENSub - END! - KRaLiMaRKo.mkv",
-    "size": "18.09 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdnVrMWZka3NyMTdyYXpn",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSVJ3aGZyRHdXdXdES21Y",
-    "is_new": false
-  },
-  {
-    "name": "Godzilla x Kong The New Empire (2024) 1080p DS4K BluRay 10bit x265 [HI-TA-TE DDP 5.1 640Kbps + EN DDP 7.1 768Kbps] ESub - END! - NmCT.mkv",
-    "size": "7.29 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvenJ1NWp1emRtNWt2NW1i",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUva1dOVG5hcE90OGJ0NjFI",
-    "is_new": false
-  },
-  {
-    "name": "Godzilla x Kong The New Empire (2024) 1080p 10bit BluRay x265 [HI-TA-TE DDP 5.1 640Kbps + EN AAC 5.1 222Kbps] ESub - END! - KONTRAST.mkv",
-    "size": "4.13 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaWZ2dW95enFramphcWN2",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQll2Unhzd0RjZ2FsOGpS",
-    "is_new": false
-  },
-  {
-    "name": "Frankenstein (2025) 2160p NF WEB-DL Atmos x265 [EN-HI DDP Atmos 5.1 768Kbps + TA-TE DDP 5.1 640Kbps] MSubs - END! - BYNDR.mkv",
-    "size": "15.60 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveWp2MW5yMTRncjNrazRy",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUveTNCeFNZRDZ0Q3hxYnJC",
-    "is_new": false
-  },
-  {
-    "name": "Frankenstein (2025) 1080p DS4K NF WEBRip 10bit x265 [EN-HI DDP Atmos 5.1 768Kbps + TA-TE DDP 5.1 640Kbps] ENSub - END! - The.PunisheR.mkv",
-    "size": "8.34 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveTZ5eDdyenltZ3l6bWhw",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYWJBS2hOeFpjUGlrWGdG",
-    "is_new": false
-  },
-  {
-    "name": "Frankenstein (2025) 1080p DS4K NF WEBRip 10bit x265 [EN-HI DDP Atmos 5.1 768Kbps + TA-TE DDP 5.1 640Kbps] ENSub - END! - StOiC.mkv",
-    "size": "8.59 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvajhnb2p5Z3BzOHVya2hq",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUFVlVGJuSUhJWndWaGFM",
-    "is_new": false
-  },
-  {
-    "name": "Frankenstein (2025) 1080p DS4K NF WEBRip 10bit x265 [EN-HI DDP Atmos 5.1 768Kbps + TA-TE DDP 5.1 640Kbps] ENSub - END! - NmCT.mkv",
-    "size": "8.62 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvemcwbmR3ajNkYWRzMGQy",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTWJTS25JM1R4YjZZWnJu",
-    "is_new": false
-  },
-  {
-    "name": "Ford v Ferrari (2019) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + JHS Hin DDP5.1 192Kbps] MSubs - END - StOiC.mkv",
-    "size": "8.04 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdXVoZnVpcHJwYW1uemFu",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVERwN3kxWE9PVENwbzJQ",
-    "is_new": false
-  },
-  {
-    "name": "F1 The Movie (2025) 720p MA WEB-DL x264 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640kbps] MSubs - END! - BYNDR.mkv",
-    "size": "7.26 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbWdmc3ByNTV4dG14Z3Fn",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUveFBOMklMWnNqdTBXQVpG",
-    "is_new": false
-  },
-  {
-    "name": "F1 The Movie (2025) 1080p MA WEB-DL x264 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640kbps] MSubs - END! - BYNDR.mkv",
-    "size": "11.52 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZTFsMTh6b2ZqYnplbDhl",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZFlaTW1LSENONWp3c2FP",
-    "is_new": false
-  },
-  {
-    "name": "F1 The Movie (2025) 1080p DS4K 10bit iT WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640kbps] MSubs - END! - The.PunisheR.mkv",
-    "size": "7.54 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvd3dkaXdmMWRvaHJvanBo",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMjFoczNmOVEyMkFYYk5N",
-    "is_new": false
-  },
-  {
-    "name": "F1 The Movie (2025) 1080p DS4K 10bit AMZN WEBRip x265 [Hin-Tam-Tel DDP5.1 640kbps + Eng DDP Atmos 5.1 768Kbps] MSubs - END! - NeoNoir.mkv",
-    "size": "7.59 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbndjaWxycXhqeTZuaHBw",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUva1lzdEVtaVc4cEM4UEhC",
-    "is_new": false
-  },
-  {
-    "name": "F1 The Movie (2025) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - StOiC.mkv",
-    "size": "10.41 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcGNlMXBrbWRwYWZtM2xn",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaTduUnVTSWs2WnFlVHNR",
-    "is_new": false
-  },
-  {
-    "name": "F1 The Movie (2025) 1080p 10bit AMZN WEBRip x265 [Hin-Tam-Tel DDP5.1 192Kbps + Eng DDP5.1 256Kbps] ESub - END! - NeoNoir.mkv",
-    "size": "3.03 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdjNpMTk0YXVpanZ5OWsx",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbXlIZ1FsZExIWW43WTl1",
-    "is_new": false
-  },
-  {
-    "name": "Edge of Tomorrow (2014) 1080p BluRay 10bit x265 [Eng DDP7.1 Atmos 1280Kbps + Hin NF DDP5.1 640kbps] ESub - END! -StOiC.mkv",
-    "size": "6.58 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvamN5cXFxdXBtcDFucGhx",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbVdYTjRVQ3RiQm1SVXMw",
-    "is_new": false
-  },
-  {
-    "name": "Edge of Tomorrow (2014) 1080p BluRay 10bit x265 [Eng DD+ Atmos 7.1 1280Kbps + Hin NF DD+5.1 640kbps] ESub - END! - StOiC.mkv",
-    "size": "6.59 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvN2Vqd2dsMGVodmNiZXc3",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZ2pmTXdUSmZUSGJGRkpV",
-    "is_new": false
-  },
-  {
-    "name": "Eden (2024) 1080p BluRay 10bit x265 [Hin DDP 5.1 640Kbps + EN DDP 5.1 768Kbps] ESub - END! - StOiC.mkv",
-    "size": "6.79 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZjFmZHR6bXhjeHpjd2Zu",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNXd0bU9jSFJUQXJGOE9G",
-    "is_new": false
-  },
-  {
-    "name": "Doraemon Nobita's Earth Symphony (2024) 1080p BluRay REMUX x264 [HI-TA-TE DDP 2.0 224Kbps] ESub - END! - HDT.mkv",
-    "size": "27.31 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMXd3cnBndnh3d2d5Z3cx",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcXoxd2RNVVcza2YzQ3dY",
-    "is_new": false
-  },
-  {
-    "name": "Django Unchained (2012) 1080p 10bit BluRay x265 [Eng DDP 5.1 768kbps + NF Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - StOiC.mkv",
-    "size": "9.28 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMnZzb2xjZjJvdHRsMWY3",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTThDQWc0QWNOSDRORFJx",
-    "is_new": false
-  },
-  {
-    "name": "Death Note S01E12 Love 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
-    "size": "479.44 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbWZweGhwbG9mOHA4bHVn",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdHBEY0FIbWRqRjB3bmZG",
-    "is_new": false
-  },
-  {
-    "name": "Death Note S01E11 Assault 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
-    "size": "447.51 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMWJodTFheHZ5a3lwY2di",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvalJpbll5SWZESmdZTHdn",
-    "is_new": false
-  },
-  {
-    "name": "Death Note S01E10 Doubt 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
-    "size": "480.09 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZ2phMGd1MnV4bXMxYjFn",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQ09UdUdLQnBiZnluSTJw",
-    "is_new": false
-  },
-  {
-    "name": "Death Note S01E09 Encounter 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
-    "size": "490.96 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNjRsZmFlNjl4OTRsZ2xk",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbUoxNXhtU1dQZjRldVpi",
-    "is_new": false
-  },
-  {
-    "name": "Death Note S01E08 Glare 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
-    "size": "484.35 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvOGtpNG8zM2ZuYXh4YjM0",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOThSTlluQXVRMWxoQ1BG",
-    "is_new": false
-  },
-  {
-    "name": "Death Note S01E07 Overcast 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
-    "size": "489.42 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbGZ6MXl4ZnJseXNlNmh0",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVlRINWJqNVBlVERwTDR4",
-    "is_new": false
-  },
-  {
-    "name": "Death Note S01E06 Unraveling 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
-    "size": "432.74 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveGdvY29rNTV3b2t3bzk5",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQWRNZWVmVFFUVlhvWWVV",
-    "is_new": false
-  },
-  {
-    "name": "Death Note S01E05 Tactics 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
-    "size": "385.24 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvODh6a2g2ejR3ZTR6bXlv",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaGtvWWFDeVZ1b2IwWmVF",
-    "is_new": false
-  },
-  {
-    "name": "Death Note S01E04 Pursuit 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
-    "size": "404.93 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZ2pmdGhwdGExMXJ6NnQ2",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRWZERnI0RnNNT3RieWd1",
-    "is_new": false
-  },
-  {
-    "name": "Death Note S01E03 Dealings 1080p 10bit HEVC BluRay MULTi DDP2.0 ESub x265 - END! - DarQ.mkv",
-    "size": "436.83 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdzExOWtqendwYXF0bW0w",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQWJPTGhFNXo2NUhoeGli",
-    "is_new": false
-  },
-  {
-    "name": "Death Note S01E02 Confrontation 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
-    "size": "455.33 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcDlhdHB3dXdncGt1cHE3",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdFY0NVl1bExvNHZQdGtk",
-    "is_new": false
-  },
-  {
-    "name": "Death Note S01E01 Rebirth 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
-    "size": "477.87 MB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZGduNzZncTZsN2N0OWxs",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVE9ldGZxZmVQMkJSTUtx",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E24 Revival 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.91 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdDVibXNoeWh4b3VhYm5x",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvY1FWWkN5QldndFRmVENa",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E23 Frenzy 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.86 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbWxmZGZ6Y3FmMWl6dHo5",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQnhHbVNRWlVpRmE5SHUy",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E22 Guidance 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.91 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbmllYWV3d2d0cWNxbm5m",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZzRTSWRqTlFWUk51cU8z",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E21 Performance 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.87 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvM3Qxbm8xd2Mzcm5pMGto",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbXRUTVZaRW93RlVlVTBY",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E20 Makeshift 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.88 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbjNwc2dwdmV1ZTJpY3Ux",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMnRGQlhWdGh6akZ1SmFv",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E19 Matsuda 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.94 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZmZjdWl1cjlrOGkxeWN1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMXhUUFp5bG5TNGhEM25l",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E18 Ally 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.86 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY2VmeXhpdmZ4YmNzaW9l",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTjR3SjJUWjhBT0FydWRm",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E17 Execution 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.84 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbjFvczlxM2Ixb29tZWh4",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRmtLRVhMRzZPc1VmT0xS",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E16 Decision 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.30 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvM3Y0Y2x1MTRsemFsM3B2",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvR3gyZkNwV0dYMTcyQ0pY",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E15 Wager 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.48 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvd3BvMnVscGkxeWpxbnlx",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUzBaSUpIWU5Dc2tLUnNs",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E14 Friend 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.29 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY2NycG5kNGNvbXJvb3Fh",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRjVVVjFZcjN2TUNpTWxF",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E13 Confession 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.24 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvc2E5ODBmZ3ZsOTYxcDhh",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdkIydmQ4d0ppRDdKUlpB",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E12 Love 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.57 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvODU0MGs4azBsaW5sMTFm",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcE9XNHhjV3dLa0J4NDJ1",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E11 Assault 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.23 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaDF0enR6YXh4YnRpYjRl",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVHEwOXA1NTBQblRwODhE",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E10 Doubt 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.32 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbzMwdXRvcjN1Y3h4dDVl",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvenF4VVNDM2ZXekREeWhp",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E09 Encounter 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.29 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaHNxZzhxajJlYnhxYmdq",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdFZvejRLYmxMdGkxNFow",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E08 Glare 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.26 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMTFiaHZoMTF4dmh2cDFl",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvalFiQVZZZjRSZW9zUFBX",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E07 Overcast 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.50 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbG5ua3h0NGx2MmV0MW52",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvN1dFcEJhbXg4akRDSXlu",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E06 Unraveling 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.41 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvOWVldXViYXc4ZTdnZXJu",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvc2MxZk5FRlJ3cVNpc1VB",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E05 Tactics 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.37 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMWc4Zjh0dDE4ZjZnaDlr",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvS01id3RZOVliOVFRT0Fr",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E04 Pursuit 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.37 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvb3FxcTlxZWlpcHo4NHBw",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbldDckdzSFpjNlNsN3RZ",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E03 Dealings 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
-    "size": "3.23 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbXFycm5zMW5maXBuYW12",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVktqejkzYmtUWW5JVjV5",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E02 Confrontation 1080p BluRay REMUX x264 [Hin-Tam-Tel (DDP2.0 224Kbps) + Eng (DTS-HD MA 2.0 1574kbps) + Jap (DTS-HD MA 1686kbps)] ESub - END! - BluDragon.mkv",
-    "size": "3.23 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbm5kOHFvbzh6bWl3cWdl",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMWV6aDhrTFVrcTJGR3VK",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E01 Rebirth 1080p BluRay REMUX x264 [Hin-Tam-Tel DDP2.0 224Kbps + Eng-Jap DDP2.0 256Kbps] ESub - END! - BluDragon.mkv",
-    "size": "2.78 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvanJnb2VlZnByaWZ2Mm9o",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvczV5d2VaZFVmQ0Q4M0Vq",
-    "is_new": false
-  },
-  {
-    "name": "Death Note (2006) S01E01 Rebirth 1080p BluRay REMUX x264 [Hin-Tam-Tel (DDP2.0 224Kbps) + Eng (DTS-HD MA 2.0 1576kbps) + Jap (DTS-HD MA 1667kbps)] ESub - END! - BluDragon.mkv",
-    "size": "3.22 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY3NxYjFjbHVzYmpqMjFt",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvV3pUNUtTbUxXSnpxbUNl",
-    "is_new": false
-  },
-  {
-    "name": "Darkness Falls (2003) 1080p BluRay x264 [HI-TA DDP 5.1 640Kbps + EN DTS 5.1 1509Kbps] ENSub - END! - PSYCHD.mkv",
-    "size": "7.32 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvOHNhb3kxcHQ4d21ldHdx",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSHBST3NzeHY1bUJZNzds",
-    "is_new": false
-  },
-  {
-    "name": "Darkness Falls (2003) 1080p BluRay REMUX x264 [HI-TA DDP 5.1 640Kbps + EN DTS-HD MA 5.1 2424Kbps] MSubs - END! - TRiToN.mkv",
-    "size": "18.32 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveXRlZTFuandlenFwYjFn",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMXA1ZVhxSjM1Nld4c2pn",
-    "is_new": false
-  },
-  {
-    "name": "Crayon Shin-chan the Movie Our Dinosaur Diary (2024) 1080p BluRay x264 [HI DDP2.0 640kbps + BN-HI-ML-TA-TE DD2.0 320kbps + JA DDP5.1 1024kbps] ESub - END!.mkv",
-    "size": "12.71 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdTBiYmE0Z3FhMTB5Z3Mw",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZW1TZTVLSTBLODY5a2RQ",
-    "is_new": false
-  },
-  {
-    "name": "Crayon Shin-chan the Movie Our Dinosaur Diary (2024) 1080p BluRay x264 [HI DDP2.0 640kbps + BN-HI-ML-TA-TE DD2.0 320kbps + JA DD5.1 640kbps] ESub - END! - Gru.mkv",
-    "size": "6.14 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvd3Z1bGJmbjdsYnJjcnph",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNlVGOEVKc2RhYkU0bHR4",
-    "is_new": false
-  },
-  {
-    "name": "Blue Lock Episode Nagi (2024) 1080p BluRay REMUX x264 [HI DDP 2.0 224Kbps + EN TrueHD 5.1 1532Kbps + JA TrueHD 5.1 1615Kbps] MSubs - END! - E.N.D.mkv",
-    "size": "23.29 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvb3NlZGNraGVrb3k1NWNo",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvd0FNWlM1TzRrWmZzSzl6",
-    "is_new": false
-  },
-  {
-    "name": "Black Phone 2 (2025) 2160p MA WEB-DL SDR x265 [HI DDP 5.1 640Kbps + EN DDP Atmos 5.1 768Kbps] ENSub - END! - HONE.mkv",
-    "size": "20.52 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcmN1Ym51dnVkM2ZmeWpo",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVFQ4MnJ5SFVWck5aZnNQ",
-    "is_new": false
-  },
-  {
-    "name": "Black Phone 2 (2025) 1080p MA WEBRip 10bit x265 [HI DDP 5.1 640Kbps + EN DDP 5.1 256Kbps] ENSub - END! - NeoNoir.mkv",
-    "size": "2.43 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcWljMjJrNTIwZTdibDRz",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNlRaYW1FakdQY2lxd1px",
-    "is_new": false
-  },
-  {
-    "name": "Black Phone 2 (2025) 1080p MA WEB-DL x264 [HI DDP 5.1 640Kbps + EN DDP Atmos 5.1 768Kbps] ENSub - END! - FLUX.mkv",
-    "size": "7.24 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcHYwMDBmd2xqemtqb2Fr",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOTBWcXFFVjlnVUcySnVa",
-    "is_new": false
-  },
-  {
-    "name": "Battleship (2012) 1080p BluRay 10bit HEVC MULTi DDP5.1 ESub x265 - END! - RARBG.mkv",
-    "size": "2.57 GB",
-    "langs": "Multi Audio",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaGpiampsN2hxcWJvNHEz",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvS2ZKNUR1RXdwQk5mVVhx",
-    "is_new": false
-  },
-  {
-    "name": "Battleship (2012) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 640kbps + NF Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - StOiC.mkv",
-    "size": "7.97 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZzFqMXl2amNvaGlpOG1t",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbnJ1YkVqZHJ6QWZzVXoz",
-    "is_new": false
-  },
-  {
-    "name": "Baramulla (2025) 1080p DS4K NF WEBRip 10bit x265 [HI DDP Atmos 5.1 768Kbps + EN-TA-TE DDP 5.1 640Kbps] MSubs - END! - StOiC.mkv",
-    "size": "6.38 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvamRrZ2tiZDMxbHprc2d4",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvT3NHNlBaelVvdFBBd0Fm",
-    "is_new": false
-  },
-  {
-    "name": "Ballerina.2025.1080p.BluRay.Hindi.DDP2.0.H.264-END.mkv",
-    "size": "2.04 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdXU3aWhraHk1bms1eGtw",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNnczbThJaXFldFlLeWx2",
-    "is_new": false
-  },
-  {
-    "name": "Ballerina (2025) 1080p BluRay x264 [Eng DD5.1 640kbps + AMZN Hin-Tam-Tel-Mar DDP5.1 640kbps] MSubs - END! - BHDStudio.mkv",
-    "size": "9.64 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZXJ2aTV4M2U5M3VnNXFl",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaW84VVNyalVhVHczQlNt",
-    "is_new": false
-  },
-  {
-    "name": "Ballerina (2025) 1080p 10bit BluRay x265 [Eng DDP7.1 1024kbps + AMZN Hin-Tam-Tel-Mar DDP5.1 640kbps] MSubs - END! - Chivaman.mkv",
-    "size": "7.28 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMjN2NnBnc2k2bXRtdGdj",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvN0JXekJWODRic3llV2tm",
-    "is_new": false
-  },
-  {
-    "name": "Ballerina (2025) 1080p 10bit BluRay x265 [Eng DDP Atmos 7.1 1280Kbps + AMZN Hin-Tam-Tel-Mar DDP5.1 640kbps] MSubs - END! - StOiC.mkv",
-    "size": "8.31 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdm9mbmdjZmhweWJoYnV1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaVllMFc3VHMzckJKWVRl",
-    "is_new": false
-  },
-  {
-    "name": "Ballerina (2025) 1080p 10bit BluRay x265 [Eng DDP Atmos 7.1 1280Kbps + AMZN Hin-Tam-Tel-Mar DDP5.1 640kbps] MSubs - END! - ANNi.mkv",
-    "size": "11.80 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY2V6cDkxeDEzNWxsZHpq",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVXFkbEU3d0k2Y2JZdmdt",
-    "is_new": false
-  },
-  {
-    "name": "Ask Me What You Want (2024) 1080p BluRay x264 [HIN I AAC 2.0 132Kbps + ES DTS-HD MA 5.1 3657Kbps] MSubs - END! - UNVEiL.mkv",
-    "size": "13.52 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveTcycDBrdHB1eTFjMHlq",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSDJQWGx1cURIUm1GQlBH",
-    "is_new": false
-  },
-  {
-    "name": "Afraid (2024) 1080p 10bit BluRay x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - KINGDOM.mkv",
-    "size": "5.37 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvM2szM3JycndodmFvNzF1",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUveUNTZm9TV3h4Y0MybEVN",
-    "is_new": false
-  },
-  {
-    "name": "28 Years Later (2025) 1080p DS4K MA WEBRip 10bit HEVC [DDP5.1 Atmos 768kbps English + AMZN DDP5.1 640kbps Hindi] ESub - END! - StOiC.mkv",
-    "size": "5.69 GB",
-    "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
-    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcncxeGphaXJsb3R0Z2R0",
-    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvb1NCb2JyUVo3cHRYUlZI",
-    "is_new": false
-  }
+    {
+        "name": "Playing.Gracie.Darling.S01.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.zip",
+        "size": "5.44 GB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY3ZkNXA1NDVkYXZidWNl",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdmFWa29XTmFRZk5ieDhP",
+        "is_new": true
+    },
+    {
+        "name": "Playing.Gracie.Darling.S01.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.zip",
+        "size": "11.76 GB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbmdyeW4xdG1pMW4yeXlp",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNXhsM3c0SE9FeHZuUE83",
+        "is_new": true
+    },
+    {
+        "name": "Playing.Gracie.Darling.S01E06.Dias.Irae.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
+        "size": "1.11 GB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveDR1NGZ4ZHdyY2RjZDFi",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdWZzbW1QcW5ObG92cVpV",
+        "is_new": true
+    },
+    {
+        "name": "Playing.Gracie.Darling.S01E05.Nine.of.Swords.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
+        "size": "768.43 MB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMGUwbnV0YTByYnFncWZx",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdE5nOW5NbkkzVXpFTDlh",
+        "is_new": true
+    },
+    {
+        "name": "Playing.Gracie.Darling.S01E04.Let.Me.Out.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
+        "size": "722.52 MB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvb2R0YmY1aHZ2aGt0bmgx",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcFFYeXZuaUZHNWZTZ2lE",
+        "is_new": true
+    },
+    {
+        "name": "Playing.Gracie.Darling.S01E03.Murmurations.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
+        "size": "780.19 MB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcmtreWFnNnJ5eWN5OXlr",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQTZabEZCaWY0QWFjTVdm"
+    },
+    {
+        "name": "Playing.Gracie.Darling.S01E02.Grey.Starling.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
+        "size": "821.02 MB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdW5vd2thMWd1cmx1a2t2",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMngzM1p2VDd5M1h4WHBT"
+    },
+    {
+        "name": "Playing.Gracie.Darling.S01E01.Darling.Girl.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-CMZy-END.mkv",
+        "size": "1.31 GB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZ3V1YXFub2Fxb2phMXJ2",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYkw1dmRiYTYwbVZaVDJ0"
+    },
+    {
+        "name": "Playing.Gracie.Darling.S01E06.Dias.Irae.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
+        "size": "1.96 GB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcTZ1YWxlbnVwZGFwOWN4",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdXlMbkZWdmFYZFVHUUd2"
+    },
+    {
+        "name": "Playing.Gracie.Darling.S01E05.Nine.of.Swords.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
+        "size": "1.98 GB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMTZ0czQxaGpmbnZvczR2",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvT1M1b05ub3U3RlI1OXVM"
+    },
+    {
+        "name": "Playing.Gracie.Darling.S01E04.Let.Me.Out.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
+        "size": "1.98 GB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdTBjMjFibXRvODlkbWFm",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVlRqeFhIQklUU3JjNU5u"
+    },
+    {
+        "name": "Playing.Gracie.Darling.S01E03.Murmurations.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
+        "size": "1.96 GB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcTF1Mmo5cHN1aWlpamoy",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUEl2V3poYXVlZGZCd1hi"
+    },
+    {
+        "name": "Playing.Gracie.Darling.S01E02.Grey.Starling.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
+        "size": "1.94 GB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvampjcGNjdmp3YzB2czE2",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbWdSaG1QVU5kR0lqek5v"
+    },
+    {
+        "name": "Playing.Gracie.Darling.S01E01.Darling.Girl.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
+        "size": "1.94 GB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY2F4MjFrMHhpcGZmZmlh",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaDlqNVM4aW5icnhVMUpK"
+    },
+    {
+        "name": "Troll.2.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.H.265-CMZy-END.mkv",
+        "size": "4.86 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvanNtdW16dXp4Y2Rncmtl",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTDZwZmVqZGxYemhKQWRk"
+    },
+    {
+        "name": "Troll.2.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.H.264-CMZy-END.mkv",
+        "size": "6.00 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUva2tkMDY2Z2FoYXRra3Zy",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbE1aYkFTS3I0eFBWWUxP"
+    },
+    {
+        "name": "Troll.2.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.AV1-CMZy-END.mkv",
+        "size": "2.99 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcmNyN3R0a254cnBncmJ6",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTlE0V1hGa2t0YlRBdWpR"
+    },
+    {
+        "name": "Troll.2.2025.1080p.NF.WEB-DL.MULTi.AAC5.1.H.264-CMZy-END.mkv",
+        "size": "1.42 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvenp1Z212bWN6cHo0cGN4",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMDZkSGlEUDFORmRKanZF"
+    },
+    {
+        "name": "Troll.2.2025.1080p.NF.WEB-DL.HDR.MULTi.DDP5.1.Atmos.H.265-CMZy-END.mkv",
+        "size": "3.49 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZmJ1ajFuajlhdGwwajIy",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVW02VVdaU0cxNjBQR0dD"
+    },
+    {
+        "name": "Troll.2.2025.1080p.NF.WEB-DL.HDR.MULTi.DDP5.1.Atmos.AV1-CMZy-END.mkv",
+        "size": "5.20 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvM2Y0Z2liamN4emRodGJx",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcG1JOE5TRndTaEtlc0FG"
+    },
+    {
+        "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.HDR.DUAL.DDP5.1.Atmos.H.265-CMZy-END.mkv",
+        "size": "752.79 MB",
+        "langs": "Dual Audio",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcWEwYThLYUg0NDZ4TmEz",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMDNia2VoMms5MjkxeXho"
+    },
+    {
+        "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.HDR.DUAL.DDP5.1.Atmos.AV1-CMZy-END.mkv",
+        "size": "1.21 GB",
+        "langs": "Dual Audio",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvV1k4c0tKZlpndkw1eWpC",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveG9paGllNnp4bmV4aGFy"
+    },
+    {
+        "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-CMZy-END.mkv",
+        "size": "772.22 MB",
+        "langs": "Dual Audio",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZzhUODZOMUVuMk1uZUNQ",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveXlrd3ByYWtrcnppdTF5"
+    },
+    {
+        "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-CMZy-END.mkv",
+        "size": "897.47 MB",
+        "langs": "Dual Audio",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZXE0d1RZNDRSYVZubVpD",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdXZhMmg2ZzEyMTU5MW1t"
+    },
+    {
+        "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-CMZy-END.mkv",
+        "size": "1005.52 MB",
+        "langs": "Dual Audio",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSFBUdHZMeGpUYXVabDc1",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdXZhMmg2ZzEyMTU5MW1t"
+    },
+    {
+        "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-CMZy-END.mkv",
+        "size": "1.47 GB",
+        "langs": "Dual Audio",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWERWVkZGWjdzYU0xUjVK",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdXZhMmg2ZzEyMTU5MW1t"
+    },
+    {
+        "name": "All.the.Empty.Rooms.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.AV1-CMZy-END.mkv",
+        "size": "625.97 MB",
+        "langs": "Dual Audio",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvS0dlTllyeUJ5N05hNnVV",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbTFqamhkZDZqdHcxdHR5"
+    },
+    {
+        "name": "Watchmen Chapter I (2024) 1080p BluRay 10bit x265 [Eng + Hin DDP 5.1 640kbps] ESub END!-Silence.mkv",
+        "size": "3.98 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdDFzcjJsMnR5MndzaHRt",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcUJMMld2bVVNTlc3U3Bx"
+    },
+    {
+        "name": "Warcraft (2016) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 640kbps + NF Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - StOiC.mkv",
+        "size": "9.50 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdGxhdGx0ZXZ0enVycjFm",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvanh3VWoxZ1lNUkZTYlpE"
+    },
+    {
+        "name": "Villains (2019) 1080p BluRay x264 [HI DDP 2.0 224Kbps + EN DD 5.1 640Kbps] ENSub - END! - BdC.mkv",
+        "size": "8.23 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbTZ1dTZzczJ6MHExMjNm",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMmhBYVhIbjNGVUVPSWds"
+    },
+    {
+        "name": "Villains (2019) 1080p BluRay x264 [HI DDP 2.0 224Kbps + EN DD 5.1 448Kbps] ENSub - END! - nikt0.mkv",
+        "size": "4.01 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUva3B3enJjbHoweXByMG5y",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUlpOenBoSTJWUVRmVTFF"
+    },
+    {
+        "name": "Vikram (2022) 1080p BluRay x264 [HI-TA-TE DDP Atmos 5.1 768Kbps + KA-MA DDP 5.1 192Kbps] ENSub - END! - KiNGSMAN.mkv",
+        "size": "23.60 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdzZsYzl2N2F4bjZuc3Zj",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNjNodVg4ODJtZ2VXc0dU"
+    },
+    {
+        "name": "Vikram (2022) 1080p BluRay 10bit x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KA-MA DDP 5.1 192Kbps] MSubs - END! - NazzY.mkv",
+        "size": "6.30 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZ2llcTR4cnFza2phcmE5",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRjBTVXN3amRqMmNjdVFP"
+    },
+    {
+        "name": "Vikram (2022) 1080p BluRay 10bit x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KA-MA DDP 5.1 192Kbps] MSubs - END! - Mr.X.mkv",
+        "size": "9.83 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 &bull; \u092e\u0930\u093e\u0920\u0940",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMm5xYzFjYzB1cHh1cXFl",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcW1Kd011QTloYWhkb29G"
+    },
+    {
+        "name": "Vikram (2022) 1080p BluRay 10bit x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KA-MA DDP 5.1 192Kbps] ENSub - END! - StOiC.mkv",
+        "size": "16.69 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbnFxY2Zhb2ZmYW9kbmQ0",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNXRKWTQ1NkJ1RDVmUVJW"
+    },
+    {
+        "name": "Vikram (2022) 1080p BluRay 10bit x265 [HI-TA-TE DDP Atmos 5.1 768 Kbps + KA-MA DDP 5.1 192Kbps] ENSub - END! - ANNi.mkv",
+        "size": "8.04 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbGhzc2xyc3hqZWpzbHRm",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWWExMHJYU2FQa25hSVZ0"
+    },
+    {
+        "name": "Vikram (2022) 1080p BluRay 10bit x265 [HI DDP Atmos 5.1 768Kbps] ENSub - END! - StOiC.mkv",
+        "size": "14.40 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdHRsZ2w5c2U5a2doamE1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdW1LUWl5NzRQS1pWQVhU"
+    },
+    {
+        "name": "Vikram (2022) 1080p BluRay 10bit Atmos x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KA-MA DDP 5.1 192Kbps] MSubs - END! - The.PunisheR.mkv",
+        "size": "9.37 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMHV5cnR1eTh0cmh5emls",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvejB4MjMzZUU0NUtEVkpo"
+    },
+    {
+        "name": "Vaanam.2011.1080p.BluRay.REMUX.AVC.Tamil.DTS-HD.MA.5.1.ESub-END.mkv",
+        "size": "32.62 GB",
+        "langs": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdnFhdmt5OGN1Z3M4Z2Z2",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZXpreUY4a1o0QnplVFZk"
+    },
+    {
+        "name": "Twilight (2008) 1080p BluRay REMUX x264 [HI-MR-TA-TE DDP 5.1 640Kbps + EN TrueHD Atmos 7.1] ENSub - END! - FraMeSToR.mkv",
+        "size": "33.91 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u092e\u0930\u093e\u0920\u0940",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcmtqZGJpd293anJyamo1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUThRU1AyWDc0MGNTUkxy"
+    },
+    {
+        "name": "Twilight (2008) 1080p BluRay 10bit x265 [EN-HI-MR-TA-TE DDP 5.1 640Kbps] ENSub - END! - iVy.mkv",
+        "size": "5.60 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u092e\u0930\u093e\u0920\u0940",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYjlxYmV2aGtqemdtdmRk",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYzhWRmowc0duQUVlc3Vi"
+    },
+    {
+        "name": "Thunderbolts (2025) 1080p 10bit BluRay x265 [Eng DDP5.1 640kbps + JHS Hin-Tam-Tel DDP5.1 192kbps] ESub - END! - ANNi.mkv",
+        "size": "6.09 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMnhhMXU4dGJ1eDRmbmpj",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVFcwVkVKS1kxZDdlcFJj"
+    },
+    {
+        "name": "Thunderbolts (2025) 1080p 10bit BluRay x265 MULTi DDP5.1 ESub - END! - ANNi.mkv",
+        "size": "6.09 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveXJvcnRiYm02ejk5dGRy",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTXJxUFpTTVdkc1NrVXdV"
+    },
+    {
+        "name": "Thunderbolts (2025) 1080p 10bit BluRay x265 [Eng DDP Atmos 7.1 1280Kbps + JHS Hin-Tam-Tel DDP5.1 192kbps] ESub - END! - StOiC.mkv",
+        "size": "5.68 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvd2lveG5jY25ndGdieHBi",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdnc0Z1BDN2tKRWY3QThq"
+    },
+    {
+        "name": "They Call Him OG (2025) 1080p NF WEBRip 10bit x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KN-ML DDP 5.1 640Kbps] ESub - END! - The.PunisheR.mkv",
+        "size": "9.01 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdnhxZnRxam9jb2V0cmlh",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSmN4MjJvQUNlWjN0QTRM"
+    },
+    {
+        "name": "They Call Him OG (2025) 1080p DS4K NF WEBRip 10bit x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KN-ML DDP 5.1 640Kbps] ENSub - END! - Mr.X.mkv",
+        "size": "9.25 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 &bull; \u092e\u0930\u093e\u0920\u0940",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvajMwMDFxbXh4Z25lbm54",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvT3lRWlA3N1FJRmd0MXFv"
+    },
+    {
+        "name": "They Call Him OG (2025) 1080p 10bit DS4K NF WEBRip x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KN-ML DDP 5.1 640Kbps] ESub - END! - NazzY.mkv",
+        "size": "6.59 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvenVrMXVvdHlyN3FpY3J5",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSnRnaGFlTHJkcDdsWEE4"
+    },
+    {
+        "name": "They Call Him OG (2025) 1080p 10bit DS4K NF WEBRip x265 [HI-TA-TE DDP Atmos 5.1 768Kbps + KN-ML DDP 5.1 640Kbps] ESub - END! - ANNi.mkv",
+        "size": "8.66 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYTl6Y2N0cGpjY3QxMTAw",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvN0MxblM5WFgzMVJTdnl6"
+    },
+    {
+        "name": "The Mask (1994) 1080p BluRay x265 [HIN DD 5.1 448Kbps + ENG AAC 5.1] ENSub - END! - BONE.mkv",
+        "size": "2.01 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdWE0N2F1aWxhOGV5emJ2",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRXNzZ25rdjJsejcwRkJN"
+    },
+    {
+        "name": "The Mask (1994) 1080p BluRay 10bit x265 [HI AAC 2.0 132Kbps + HI DD 5.1 448Kbps + EN DDP Atmos 5.1 768Kbps] ENSub - END! - StOiC.mkv",
+        "size": "7.87 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZjFlc2h1dTFqeWVieTV2",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYk5oS0FmRkMzVmhON3Bo"
+    },
+    {
+        "name": "The Gateway (2021) 1080p BluRay REMUX x264 [HI DDP 2.0 224Kbps + EN DTS-HD MA 5.1 3349Kbps + EN DTS 5.1 1509Kbps] MSubs - END! - UnKn0wn.mkv",
+        "size": "20.57 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "W3NhbmRpZ2RoIGxpbmsgaGF0YSBkaXlhIGdheWFd",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUzgxTjE0Y0tMWHczcXVl"
+    },
+    {
+        "name": "The Fantastic Four First Steps (2025) 1080p JHS WEB-DL x265 [HI-TA-TE DDP 5.1 192Kbps + EN DDP Atmos 5.1 768Kbps] MSubs - END.mkv",
+        "size": "2.70 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY2FvcmRwZTV3aXpmcHJy",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdXljVldsOXJzZXdkZnBq"
+    },
+    {
+        "name": "The Fantastic Four First Steps (2025) 1080p BluRay 10bit x265 [JHS HI-TA-TE DDP 5.1 192Kbps + EN DDP 7.1 1536Kbps] ENSub - END! - StOiC.mkv",
+        "size": "9.11 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaXBkZG9vc2RwZ3VnZHdn",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcXZUUHdqYmdhOXltZVdy"
+    },
+    {
+        "name": "The Fantastic Four First Steps (2025) 1080p BluRay 10bit x265 [HI-TA-TE DDP 5.1 192Kbps + EN DDP 5.1 384Kbps] ENSub - END! - ANNi.mkv",
+        "size": "5.61 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdHJtYng2N2RkZTBqamJ4",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNlhvcnRoZ0ZVQTh6QjY5"
+    },
+    {
+        "name": "The Fall Guy (2024) 1080p BluRay REMUX x264 [HI DDP 5.1 640Kbps + BE-HI-KA-MR-TA-TE AAC 2.0 192Kbps + EN TrueHD Atmos 7.1 2884Kbps + EN DD 5.1 448Kbps + EN DD 2.0 192Kbps] ENSub - END! - CiNEPHiLES.mkv",
+        "size": "24.14 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1 &bull; \u092e\u0930\u093e\u0920\u0940",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcThveTcxZm1uN2J5eXNu",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUveGRkVGo2NEgxdEtNeW1I"
+    },
+    {
+        "name": "The Bad Guys 2 (2025) 1080p 10bit BluRay x265 [Eng DDP 7.1 1536Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - StOiC.mkv",
+        "size": "7.94 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZTFuZWluN2VrY2Mxa2Rp",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWk1WcGdja3Zub1RZZWNr"
+    },
+    {
+        "name": "Superman (2025) 1080p 10bit DS4K iT WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - NmCT.mkv",
+        "size": "9.30 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "W3NhbmRpZ2RoIGxpbmsgaGF0YSBkaXlhIGdheWFd",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMzRZVDVuamFhdkVuS3M0"
+    },
+    {
+        "name": "Superman (2025) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - StOiC.mkv",
+        "size": "6.95 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcTBtcnNzazZ0ZzB4Nm1y",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZ094bGh0Yk15M2RRbW5a"
+    },
+    {
+        "name": "Superman (2025) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - ANNi.mkv",
+        "size": "10.19 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbXVhazBrZ21ycWdtdDF1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQXNXQURrTm5Td01ROXBy"
+    },
+    {
+        "name": "Superman (2025) 1080p 10bit DS4K AMZN WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - DNU-TAoE.mkv",
+        "size": "10.29 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNGoweWdjam5qenNuNGd4",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVW9rSnJxazBCWHJtcWF0"
+    },
+    {
+        "name": "Smurfs (2025) 720p AMZN WEB-DL x264 [Eng DD+5.1 Atmos 768kbps + Hin DD+5.1 640kbps] ESub END!-BYNDR.mkv",
+        "size": "3.06 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYXYxYWpydDIxcXBwMXpi",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSWhUU3NkQk1XdWJzY1A2"
+    },
+    {
+        "name": "Smurfs (2025) 2160p AMZN WEB-DL x265 [Eng DD+5.1 Atmos 768kbps + Hin DD+5.1 640kbps] ESub END!-BYNDR.mkv",
+        "size": "10.21 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaHM4eWhuM3lvaHZ4aHF2",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbFNGUGlmM0VjTTNLQkVq"
+    },
+    {
+        "name": "Smurfs (2025) 1080p BluRay x264 [AMZN HI DDP5.1 640kbps + EN DDPA5.1 1024kbps] ESub - END! - hallowed.mkv",
+        "size": "6.05 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcGtiZGt5NzAxc2Fzam14",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOXM2R3lYWHFGb0s5UlVn"
+    },
+    {
+        "name": "Smurfs (2025) 1080p BluRay x264 [AMZN HI DDP5.1 640kbps + EN AAC5.1 384kbps] - END! - YTS.mkv",
+        "size": "2.06 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbDlibHpjNmJibGRpYnpl",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVmVZSVNiMmRrbk1mWVJQ"
+    },
+    {
+        "name": "Smurfs (2025) 1080p BluRay REMUX x264 [AMZN HIN DDP5.1 640kbps + ENG Dolby TrueHD Atmos 7.1 2958kbps] ESub - END! - RFX.mkv",
+        "size": "20.71 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvanBpdHY0anN2bGpqZ3V5",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUzFSZEFwWnh3YzJwanh2"
+    },
+    {
+        "name": "Smurfs (2025) 1080p AMZN WEB-DL x264 [Eng DD+5.1 Atmos 768kbps + Hin DD+5.1 640kbps] ESub END!-BYNDR.mkv",
+        "size": "4.86 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcGtoZ2J5bnNvY3BzeTEy",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvT01rYnNkd0xSdGNBRkN6"
+    },
+    {
+        "name": "Saaho.2019.1080p.JPN.BluRay.REMUX.AVC.Telugu.DTS-HD.MA.5.1-END.mkv",
+        "size": "27.79 GB",
+        "langs": "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMXBqZmZlc2ZteWRzZXdt",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTFRjaTdqMDVsT1hzZHAz"
+    },
+    {
+        "name": "Rangasthalam (2018) 720p 10bit BluRay x265 [Hindi TV-DL DDP2.0 192kbps + Telugu AMZN DDP2.0 192Kbps] ESub - END! - NEMESiS.mkv",
+        "size": "1.58 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcXA2eTVlYTV5cXMweWZw",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNThmVVBBSkZnMEpBVVB3"
+    },
+    {
+        "name": "Rangasthalam (2018) 720p 10bit BluRay x265 [Hindi TV-DL DD2.0 448kbps + Telugu AMZN DDP5.1 192kbps] ESub - END! - NEMESiS.mkv",
+        "size": "1.89 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbmVwbnVkdTFwdTFyMGNh",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcnlicHJCcTUzVmc0S0dE"
+    },
+    {
+        "name": "Rangasthalam (2018) 1080p 10bit BluRay x265 [Hindi TV-DL DD2.0 448kbps + Telugu AMZN DDP5.1 640kbps] ESub - END! - NEMESiS.mkv",
+        "size": "3.99 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveGpteDQybTZ4amRtb3ht",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZ1NGZGJqRzVieWxjY0hi"
+    },
+    {
+        "name": "Rangasthalam (2018) 1080p 10bit BluRay x265 [Hindi FLAC2.0 TV-DL + AMZN Telugu DDP5.1 640kbps] ESub - END! - NEMESiS.mkv",
+        "size": "4.14 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvM3MzOTExNjgxbjFnMTF2",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaVRHbzFuQXl6c2xKc0Jx"
+    },
+    {
+        "name": "RRR - Rise Roar Revolt (2022) 1080p IMAX DS4K BluRay 10bit HDR10 Atmos x265 [HI DDP Atmos 5.1 768Kbps + KA-MA-TA DDP Atmos 5.1 448Kbps + TE DDP Atmos 5.1 1024Kbps + EN DDP 5.1 640Kbps] ENSub - END! - The.PunisheR.mkv",
+        "size": "15.01 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvOWk5c3J6a3JmOWxsYTlp",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvb0MwZmV0SXhBQmZmalJD"
+    },
+    {
+        "name": "Project Silence (2023) 1080p BluRay 10-Bit HEVC (Multi-Audio) [Korean-Hindi-Tamil-Telugu DD+2.0 224kbps] (ORG AMZN Auds) ESub - END! - StOiC.mkv",
+        "size": "5.42 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNGV0bXdsMXJyNGpyNndu",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTXJseUg1STlpM0NLZEt3"
+    },
+    {
+        "name": "Project Silence (2023) 1080p BluRay 10-Bit HEVC (Multi-Audio) [Kor DD+ 7.1 1536Kbps + Eng DD+ 5.1 768kbps + AMZN Hindi-Tamil-Telugu DD+2.0 224kbps] ESub - END! - StOiC.mkv",
+        "size": "6.82 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYm9ldW5hY2VldXJyd29v",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMk5uN3ZOazZuSTAyYjNt"
+    },
+    {
+        "name": "Oggy and the Cockroaches The Movie (2013) 1080p BluRay x264 [HI DDP 2.0 224Kbps + FR DTS 5.1 768Kbps] - END! - ROUGH.mkv",
+        "size": "4.51 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; Fran\u00e7ais",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdnZwZnZkeGQxdDV3Zng1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdVhyYzJwcmdkdVpONVZr"
+    },
+    {
+        "name": "Oggy and the Cockroaches The Movie (2013) 1080p BluRay REMUX x264 [HI DDP 2.0 224Kbps + FR DTS-HD MA 5.1 1561Kbps] - END! - KRaLiMaRKo.mkv",
+        "size": "14.71 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; Fran\u00e7ais",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbWp3MHNzbWszaHZlMXZk",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYzJZalk1RWlVS25ldDF1"
+    },
+    {
+        "name": "Oggy and the Cockroaches The Movie (2013) 1080p BluRay 10bit x265 [HI DDP 2.0 224Kbps + FR AAC 5.1 384Kbps] - END! - Koyumu.mkv",
+        "size": "1.96 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; Fran\u00e7ais",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZHMzb3M3amlzNjUwemw1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdWZBaEQ4M1JrNnlaYVM0"
+    },
+    {
+        "name": "Nobody 2021 720p 10bit HEVC BluRay Dual Hindi & English ESub x265 - END! - PSA.mkv",
+        "size": "879.61 MB",
+        "langs": "Dual Audio",
+        "hub": "W3NhbmRpZ2RoIGxpbmsgaGF0YSBkaXlhIGdheWFd",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaEpNSWdFbGtSeXVpN2RU"
+    },
+    {
+        "name": "Nobody 2021 1080p 10bit HEVC BluRay Dual Hindi & English ESub x265 - END! - PSA.mkv",
+        "size": "1.94 GB",
+        "langs": "Dual Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvN3JpanVqdzdpZGw3anlv",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYVdTemlkT3BrZWRCVE5z"
+    },
+    {
+        "name": "Nobody 2 (2025) 1080p 10bit DS4K iTunes WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - The.PunisheR.mkv",
+        "size": "3.27 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYXJ6ZHg2cGVzcHlzdXV1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvclJuUjdhdjdUeVQ3bzRl"
+    },
+    {
+        "name": "Nobody 2 (2025) 1080p 10bit DS4K iTunes WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - DaddyCooL.mkv",
+        "size": "4.63 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMWF2dnI2Zm4xdGFhZm5i",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvanIxcncxUzQ1Y2xCclFo"
+    },
+    {
+        "name": "Nobody 2 (2025) 1080p 10bit DS4K AMZN WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - NazzY.mkv",
+        "size": "3.18 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZGJmejFiYXJiZnJmdHpo",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNVdGUEFhQ1JTeGtlS2FE"
+    },
+    {
+        "name": "Nobody 2 (2025) 1080p 10bit DS4K AMZN WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - DNU-TAoE.mkv",
+        "size": "2.41 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvd3drbXByMTFjNTZyZXBw",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVlBWNzM3cXpDR2lsV2R5"
+    },
+    {
+        "name": "Nobody 2 (2025) 1080p 10bit DS4K AMZN WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - ANNi.mkv",
+        "size": "3.35 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvczJ4eGtham5qNzdsZTFi",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTmdsSjYwMkk4ZTVHU0pm"
+    },
+    {
+        "name": "Nobody 2 (2025) 1080p 10bit BluRay x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - StOiC.mkv",
+        "size": "4.37 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZWlzbGpvbHVhamxhaWVk",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaFp4R1UxYURzdlUwc2ox"
+    },
+    {
+        "name": "Nobody (2021) 1080p 10bit BluRay x265 [Eng DDP7.1 1024kbps + AMZN Hin DDP5.1 640kbps] MSubs - END! - Ralphy.mkv",
+        "size": "4.66 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveXNuampnOWthZDFzb295",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMUlyeUJUMEpuZEkxa0Vh"
+    },
+    {
+        "name": "Nobody (2021) 1080p 10bit BluRay x265 [Eng DDP7.1 1024kbps + AMZN Hin DDP5.1 640kbps] ESubs - END! - Ralphy.mkv",
+        "size": "4.66 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUva25qZnd5eXFld2FneTVr",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSjVRRHkzT1hhTnphSDZs"
+    },
+    {
+        "name": "Ne Zha 2 (2025) 2160p 10bit SDR WEBRip x265 [Mandarin DDP Atmos 5.1 448kbps + iT Hindi DD5.1 384kbps] MSubs - END!.mkv",
+        "size": "10.54 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u4e2d\u6587",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaXN4bHhucHBzZnNnb3lo",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRWs4U1NOTjhzTTVrdGQ1"
+    },
+    {
+        "name": "Ne Zha 2 (2025) 1080p 10bit DS4K iT WEBRip x265 [Hin DD5.1 384kbps + Eng DDP5.1 Atmos 768kbps] ESub - END! - StOiC.mkv",
+        "size": "6.37 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZXFyMm5ldmUwY295bzF1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRUlFZlFrWGNoNzRubFdV"
+    },
+    {
+        "name": "Ne Zha 2 (2025) 1080p 10bit DS4K WEBRip x265 [Mandarin DDP Atmos 5.1 448kbps + iT Hin DD5.1 384kbps] ESub - END! - NazzY.mkv",
+        "size": "5.42 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u4e2d\u6587",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZDJmOXBxYzExanB4ZWVy",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNVFtYTFseDNvbTdLZDQz"
+    },
+    {
+        "name": "Ne Zha 2 (2025) 1080p 10bit DS4K WEBRip [Mandarin DDP Atmos 5.1 448kbps + iT Hindi DD5.1 384kbps] MSubs - END! - Mr.X.mkv",
+        "size": "9.96 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u092e\u0930\u093e\u0920\u0940 &bull; \u4e2d\u6587",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcWw1dTVkcWJvNXFsbHFm",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUkZ4UnEzQzJpbkNxZHdY"
+    },
+    {
+        "name": "My Neighbor Totoro - Tonari no Totoro (1988) 1080p BluRay REMUX x264 [HI DDP 2.0 128Kbps + EN DD 2.0 192Kbps + JPX DTS-HD MA 2.0 2092Kbps] MSubs - END! - LEGi0N.mkv",
+        "size": "24.57 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMnA4cWRkdXR2cXVrdHVy",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOHZ5c0ttOEJyRENobGFE"
+    },
+    {
+        "name": "My Neighbor Totoro - Tonari no Totoro (1988) 1080p BluRay 10bit x265 [HI DDP 2.0 128Kbps + EN DD 2.0 192Kbps + JA DTS-HD MA 2.0 2092Kbps] MSubs - END! - Kira.mkv",
+        "size": "12.94 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaXpnaGR1enplenplc2xl",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSklmeERpR1JucnpmRG9T"
+    },
+    {
+        "name": "My Neighbor Totoro - Tonari no Totoro (1988) 1080p BluRay 10bit x265 [HI DDP 2.0 128Kbps + EN DD 2.0 192Kbps + JA DD 2.0 320Kbps] MSubs - END! - FRDS.mkv",
+        "size": "4.89 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYWlyMWd4anN6ZXU0emU5",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOVRvaENJcTZBaDZGODNE"
+    },
+    {
+        "name": "My Neighbor Totoro - Tonari no Totoro (1988) 1080p BluRay 10bit x265 [HI DDP 2.0 128Kbps + EN AAC 2.0 430Kbps + JA AAC 2.0 424Kbps] MSubs - END! - Prof.mkv",
+        "size": "3.36 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvenF1dGhibG1wbGx6Ymhn",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRURFZVJCSnhjanU0dTJh"
+    },
+    {
+        "name": "Monster Summer (2024) 1080p BluRay x264 [Hin-Tam-Tel DDP 5.1640Kbps + RU DDP5.1 384Kbps + EN DD5.1 640Kbps] MSubs - END! - MegaPeer.mkv",
+        "size": "9.43 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZ3dnejRzd2dtYjZveDR1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaEw3ZTlnZkN5RXAxRjdw"
+    },
+    {
+        "name": "Monster Summer (2024) 1080p BluRay REMUX x264 [Hin-Tam-Tel DDP 5.1 640Kbps + EN DTS-HD MA 5.1 2064Kbps + DE DTS-HD MA 5.1 2078Kbps] MSubs - END! - Aisha.mkv",
+        "size": "26.82 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; Deutsch",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcm1yeDExaG9qam9saGg0",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYVB4SW05S3lLTVlESmhr"
+    },
+    {
+        "name": "Monster Summer (2024) 1080p BluRay 10bit x265 [Hin-Tam-Tel DDP 5.1 640Kbps + RU AAC 5.1 384Kbps] - END! - LAMA.mkv",
+        "size": "2.96 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdXRxcHU2MWxucHd1Znd1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaG5BYUN4WnlnUk92cFc0"
+    },
+    {
+        "name": "Mononoke The Movie Chapter II The Ashes of Rage (2025) 1080p NF WEB-DL x264 [Hin + Eng + Jap DDP5.1 640kbps] MSubs - END!-VARYG.mkv",
+        "size": "3.63 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdGp4NjRucW0xb244cmht",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWFhKMHY5QkdoWnlJOHBa"
+    },
+    {
+        "name": "Mononoke The Movie Chapter I Phantom In The Rain (2024) 1080p NF WEB-DL x264 [Hin + Eng + Jap DDP5.1 640kbps] MSubs - END!-VARYG.mkv",
+        "size": "4.37 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcmc0ZXJ0NHFuNHlodGF1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWHJiOXZxcmhTS0FQeFRX"
+    },
+    {
+        "name": "Mononoke The Movie Chapter I Phantom In The Rain (2024) 1080p 10bit NF WEBRip x265 [Hin + Eng + Jap DDP5.1 640kbps] ESub - END!-Rapta.mkv",
+        "size": "3.92 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcmZvenI4OGF1ajFhbm96",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMmFMRHBqSHI0N3RkaVBt"
+    },
+    {
+        "name": "Mission Impossible The Final Reckoning (2025) IMAX 1080p 10bit DS4K iT WEBRip [Eng DDP Atmos 5.1 768Kbps + AMZN Hindi-Tamil-Telugu DDP5.1 640kbps] ESub - END! - StOiC.mkv",
+        "size": "9.16 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZGxpempoZDdsYWRlZGdk",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYnplckhVQUJoZlFCNFFy"
+    },
+    {
+        "name": "Mission Impossible The Final Reckoning (2025) IMAX 1080p 10bit BluRay x265 [Eng DDP 7.1 1536Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - StOiC.mkv",
+        "size": "15.84 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveHVwZ3lnY3RnMnhpMW9w",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWGswOUIyRlN3WkE1RG9C"
+    },
+    {
+        "name": "Mission Impossible The Final Reckoning (2025) 2160p 10bit HDR WEBRip IMAX x265 [Hin + Tam + Tel + Eng (AMZN DDP5.1 640kbps)] ESub - END! - Lootera.mkv",
+        "size": "11.97 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdHRjdXQwZ2IxYmJ5bW1m",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvU3ZIN3BwWVVNcDRCVTFr"
+    },
+    {
+        "name": "Mission Impossible The Final Reckoning (2025) 1080p IMAX UHD SDR BluRay 10bit x265 [HI-TA-TE DDP 5.1 640Kbps + EN DDP 5.1 768Kbps] ENSub - END! - ViTO.mkv",
+        "size": "7.91 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvYnlvYnZ4czlrc3lnYnl5",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTWhBYUU2N2FXRHd3MEc0"
+    },
+    {
+        "name": "Mission Impossible The Final Reckoning (2025) 1080p IMAX UHD BluRay HDR10 10bit DV x265 [HI-TA-TE DDP 5.1 640Kbps + EN DDP 5.1 768Kbps] ENSub - END! - ViTO.mkv",
+        "size": "15.37 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvc3FkdzM5cHM4cGV1Zmlt",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvY20zSUIxZU5yaHZqQWha"
+    },
+    {
+        "name": "Mission Impossible The Final Reckoning (2025) 1080p IMAX 10bit WEBRip x265 [Hin + Tam + Tel + Eng (AMZN DDP5.1 192Kbps)] ESub - END! - Lootera.mkv",
+        "size": "3.90 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveGYxcm96MXpubmZqeG54",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVXBzREx1Ynd3bGtLMVNs"
+    },
+    {
+        "name": "Mission Impossible The Final Reckoning (2025) 1080p 10bit WEBRip x265 [Hin + Tam + Tel + Eng (AMZN DDP5.1 640kbps)] ESub - END! - UKBandit.mkv",
+        "size": "7.08 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZXNycnZ2ZWQ4cTV0ZGpl",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcURzQUVJTENacmQxRU56"
+    },
+    {
+        "name": "Mission Impossible The Final Reckoning (2025) 1080p 10bit WEBRip x265 [Hin + Tam + Tel + Eng (AMZN DDP5.1 640kbps)] ESub - END! - DH.mkv",
+        "size": "8.37 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMTRkMWI0aDE0YXBwbG80",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMjZkdzRjZEEzRHVlVHlX"
+    },
+    {
+        "name": "Mission Impossible The Final Reckoning (2025) 1080p 10bit WEBRip x265 [Hin + Tam + Tel + Eng (AMZN DDP5.1 192kbps)] ESub - END! - NeoNoir.mkv",
+        "size": "3.42 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdTNreXRwc2duZ3Bycmpw",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTTYzZXQzemdlWmxNa2Ux"
+    },
+    {
+        "name": "Mission Impossible The Final Reckoning (2025) 1080p 10bit iTunes WEBRip IMAX x265 [Hin-Tam-Tel-Eng (AMZN DDP5.1 192Kbps)] ESub END!.mkv",
+        "size": "2.34 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvb3l3dDFkeDh1bXdtaW9t",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNmFpUWtPWlBrZGNsMEdR"
+    },
+    {
+        "name": "Materialists (2025) 1080p 10bit BluRay x265 [Eng DDP Atmos 5.1 768kbps + NF Hin-Tam-Tel DDP5.1 640kbps] ESub - END! - StOiC.mkv",
+        "size": "10.85 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcTlsa3Y3bHFta3I3bGd1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYkF2N3pZaWg0ZEpoNjFz"
+    },
+    {
+        "name": "Materialists (2025) 1080p 10bit BluRay x265 [Eng DDP Atmos 5.1 768kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - StOiC.mkv",
+        "size": "9.81 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcXZxeHd3Ym85dnpncHhw",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUva3B2YWJCTFVTUjZTbDN4"
+    },
+    {
+        "name": "Materialists (2025) 1080p 10bit BluRay x265 [Eng DDP 7.1 1024kbps + AMZN Hin DDP5.1 640kbps] ESub - END! - Chivaman.mkv",
+        "size": "5.39 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZXF0OWEwcHBvc3BvcWFv",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdUxIWEdxT2RUNXl1eWpB"
+    },
+    {
+        "name": "Maareesan.2025.1080p.10bit.DS4K.NF.WEBRip.MULTi.DDP.5.1.ESub.x265-END-StOiC.mkv",
+        "size": "7.21 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY3kxM250dW5xa2RwMTFh",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaDZQWTRIWlM5aENocmFK"
+    },
+    {
+        "name": "Maareesan (2025) 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 ESub x265 - END! - ANNi.mkv",
+        "size": "7.57 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcHR6ZXp2aHBwb3Rid25i",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZ1FwNzhROXZLbzA1QWgy"
+    },
+    {
+        "name": "Love Hurts (2025) 1080p BluRay 10bit x265 [DD5.1 640kbps Eng + AAC 2.0 128kbps Hin] ESub - END!.mkv",
+        "size": "3.86 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZWJ3ZTF2c3R0d2Yxd2Vl",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYUN1UXlDdjZaMGVhQWJ3"
+    },
+    {
+        "name": "Lokah Chapter 1 Chandra (2025) 1080p DS4K HS WEBRip 10bit x265 [HI-KA-MA-TA-TE DDP Atmos 5.1 768Kbps + MR AAC 2.0 768Kbps + BE DDP 5.1 192Kbps] ENSub - END! - StOiC.mkv",
+        "size": "10.43 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 &bull; \u092e\u0930\u093e\u0920\u0940",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY2s3d2J4Ym8xcng0eHJ5",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZmJoaU5QdWJjd0NNYkk3"
+    },
+    {
+        "name": "Lilo & Stitch (2025) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 768kbps + JHS Hin-Tam-Tel DDP5.1 192kbps] ESub - END! - StOiC.mkv",
+        "size": "5.60 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZjN0cjJwcmY1Z2l0ZDB5",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVGRjdHJLMzhTdjVDNTA4"
+    },
+    {
+        "name": "Knock Knock (2015) 1080p BluRay 10bit DV HDR x265 [HI-TA-TE DDP5.1 640Kbps + EN DDP Atmos 5.1 768Kbps] ESub - END! - StOiC.mkv",
+        "size": "9.77 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvOHZ3cDJnZnA2cWIydnJw",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvemlUcU9PY01sSEF1NDBE"
+    },
+    {
+        "name": "Kadaram Kondan (2019) 1080p AMZN WEB-DL x264 [HI DDP 2.0 192Kbps + TA DDP 5.1 640Kbps] MSubs - END! - ExtraFlix.mkv",
+        "size": "7.06 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNXJhcmFjMXZoOGhqODZw",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvT2pQNVdaczJiaWNxQnJp"
+    },
+    {
+        "name": "K.G.F: Chapter 2 (2022) 1080p BluRay REMUX x264 [Kannada DTS-HD MA 5.1 + AMZN Hin DDP5.1 640kbps] JSub - END! - DTiNS - ANNi.mkv",
+        "size": "32.93 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUva2VneHJ2MXV1dXRnZ2U5",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcVJxSkJ3S1NhR1luVFc2"
+    },
+    {
+        "name": "K.G.F: Chapter 1 (2018) 1080p BluRay REMUX [Kannada DTS-HD MA 5.1 + AMZN Hin DDP5.1 640kbps] JSub - END! - ANNi.mkv",
+        "size": "31.66 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvc3lodGc4M3NoeWllM2cz",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWEtJVEZIMDFGNktMRFFK"
+    },
+    {
+        "name": "K.G.F Chapter 2 (2022) 1080p BluRay x265 [HI DDP 5.1 640Kbps + KA DDP 5.1 384Kbps] ENSub - END! - Pahe.in.mkv",
+        "size": "3.72 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbW8zemZzdmYzMW1mZmNh",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUva2g4djQ2cU5Oc043Rmlj"
+    },
+    {
+        "name": "K.G.F Chapter 2 (2022) 1080p 10bit HEVC BluRay MULTi DDP5.1 MSubs x265 - END! - StOiC.mkv",
+        "size": "12.26 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcmpia2h2anl6MjJnZ2l1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQlpiRlJZSEJTaUIxWTR3"
+    },
+    {
+        "name": "K.G.F Chapter 2 (2022) 1080p 10bit BluRay x265 [Hin DDP5.1 640kbps + Kan DDP5.1 768kbps] ESub - END! - StOiC.mkv",
+        "size": "10.03 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
+        "hub": "W3NhbmRpZ2RoIGxpbmsgaGF0YSBkaXlhIGdheWFd",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNDFLU0NHMkFXOWlnYTRn"
+    },
+    {
+        "name": "K.G.F Chapter 1 (2018) 1080p BluRay x265 [HI DDP 5.1 640Kbps + KA DDP 5.1 384Kbps] ENSub - END! - Pahe.in.mkv",
+        "size": "3.72 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNDR3bjF1cHFlamNxam50",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNzNqOWd1Z1ZBQzJ2SUdl"
+    },
+    {
+        "name": "K.G.F Chapter 1 (2018) 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - StOiC.mkv",
+        "size": "13.48 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbW55MW54aWF5MGNubGxh",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWkdqOE9GOE1pcmNLNmJT"
+    },
+    {
+        "name": "K.G.F Chapter 1 (2018) 1080p 10bit BluRay x265 [Hin DDP5.1 640kbps + Kan DDP5.1 768kbps] ESub - END! - StOiC.mkv",
+        "size": "11.41 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvazIyeDJ4NHgxdHR4eDRv",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUveEJiWHV2ZlB6QXB4SXVE"
+    },
+    {
+        "name": "Jurassic World Rebirth (2025) 1080p 10bit BluRay x265 [AMZN Hin-Tam-Tel DDP5.1 640kbps + Eng DDP5.1 Atmos 1280kbps] ESub - END! - StOiC.mkv",
+        "size": "9.45 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaWtqaG9ycDAwcnAwMTN4",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZ1RkV1RacE1pbzAycnA3"
+    },
+    {
+        "name": "How To Train Your Dragon (2025) 1080p BluRay IMAX 10bit x265 [TrueHD 7.1 Atmos Eng + AMZN DD+ 5.1 640kbps Hin+Tam+Tel] ESub - END!.mkv",
+        "size": "9.77 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvejZ5cG9teW1hd29kZHJy",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUzlNb0NQSTBQeFYwTjFt"
+    },
+    {
+        "name": "How To Train Your Dragon (2025) 1080p BluRay IMAX 10bit HEVC [Eng DDP7.1 Atmos 1280kbps + Hin+Tam+Tel AMZN DDP5.1 640kbps] ESub - END! - StOiC.mkv",
+        "size": "8.44 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNmwwbDNmNjYxczB4Y2kz",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdkVtOUdXRU9Fa1FqTE9r"
+    },
+    {
+        "name": "Haikyu!! The Dumpster Battle (2024) 1080p 10bit HEVC BDRip JPN-ENG-HIN MSubs x265 - END! - Sam.mkv",
+        "size": "16.10 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNGFqZWFhYXZyZWFnZW1l",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVDEydDR6emJDc3Z6ZkU3"
+    },
+    {
+        "name": "Haikyu!! The Dumpster Battle (2024) 1080p 10bit BDRip x265 [Hin DDP2.0 224kbps + Jap TrueHD7.1 Atmos + Jap FLAC2.0 + Eng DDP2.0 224kbps] ESub - END! - sam.mkv",
+        "size": "16.09 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZG9tNWZmNW0xcTExNGRv",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRTJraWFqODZPRWM5Q3JI"
+    },
+    {
+        "name": "Goosebumps 2 Haunted Halloween (2018) 1080p BluRay REMUX x264 [HI-TA-TE DDP 5.1 640Kbps + EN DTS-HD MA 5.1 1970Kbps] ENSub - END! - KRaLiMaRKo.mkv",
+        "size": "18.09 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdnVrMWZka3NyMTdyYXpn",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSVJ3aGZyRHdXdXdES21Y"
+    },
+    {
+        "name": "Godzilla x Kong The New Empire (2024) 1080p DS4K BluRay 10bit x265 [HI-TA-TE DDP 5.1 640Kbps + EN DDP 7.1 768Kbps] ESub - END! - NmCT.mkv",
+        "size": "7.29 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvenJ1NWp1emRtNWt2NW1i",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUva1dOVG5hcE90OGJ0NjFI"
+    },
+    {
+        "name": "Godzilla x Kong The New Empire (2024) 1080p 10bit BluRay x265 [HI-TA-TE DDP 5.1 640Kbps + EN AAC 5.1 222Kbps] ESub - END! - KONTRAST.mkv",
+        "size": "4.13 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaWZ2dW95enFramphcWN2",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQll2Unhzd0RjZ2FsOGpS"
+    },
+    {
+        "name": "Frankenstein (2025) 2160p NF WEB-DL Atmos x265 [EN-HI DDP Atmos 5.1 768Kbps + TA-TE DDP 5.1 640Kbps] MSubs - END! - BYNDR.mkv",
+        "size": "15.60 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveWp2MW5yMTRncjNrazRy",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUveTNCeFNZRDZ0Q3hxYnJC"
+    },
+    {
+        "name": "Frankenstein (2025) 1080p DS4K NF WEBRip 10bit x265 [EN-HI DDP Atmos 5.1 768Kbps + TA-TE DDP 5.1 640Kbps] ENSub - END! - The.PunisheR.mkv",
+        "size": "8.34 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveTZ5eDdyenltZ3l6bWhw",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYWJBS2hOeFpjUGlrWGdG"
+    },
+    {
+        "name": "Frankenstein (2025) 1080p DS4K NF WEBRip 10bit x265 [EN-HI DDP Atmos 5.1 768Kbps + TA-TE DDP 5.1 640Kbps] ENSub - END! - StOiC.mkv",
+        "size": "8.59 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvajhnb2p5Z3BzOHVya2hq",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUFVlVGJuSUhJWndWaGFM"
+    },
+    {
+        "name": "Frankenstein (2025) 1080p DS4K NF WEBRip 10bit x265 [EN-HI DDP Atmos 5.1 768Kbps + TA-TE DDP 5.1 640Kbps] ENSub - END! - NmCT.mkv",
+        "size": "8.62 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvemcwbmR3ajNkYWRzMGQy",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTWJTS25JM1R4YjZZWnJu"
+    },
+    {
+        "name": "Ford v Ferrari (2019) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + JHS Hin DDP5.1 192Kbps] MSubs - END - StOiC.mkv",
+        "size": "8.04 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdXVoZnVpcHJwYW1uemFu",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVERwN3kxWE9PVENwbzJQ"
+    },
+    {
+        "name": "F1 The Movie (2025) 720p MA WEB-DL x264 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640kbps] MSubs - END! - BYNDR.mkv",
+        "size": "7.26 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbWdmc3ByNTV4dG14Z3Fn",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUveFBOMklMWnNqdTBXQVpG"
+    },
+    {
+        "name": "F1 The Movie (2025) 1080p MA WEB-DL x264 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640kbps] MSubs - END! - BYNDR.mkv",
+        "size": "11.52 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZTFsMTh6b2ZqYnplbDhl",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZFlaTW1LSENONWp3c2FP"
+    },
+    {
+        "name": "F1 The Movie (2025) 1080p DS4K 10bit iT WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640kbps] MSubs - END! - The.PunisheR.mkv",
+        "size": "7.54 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvd3dkaXdmMWRvaHJvanBo",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMjFoczNmOVEyMkFYYk5N"
+    },
+    {
+        "name": "F1 The Movie (2025) 1080p DS4K 10bit AMZN WEBRip x265 [Hin-Tam-Tel DDP5.1 640kbps + Eng DDP Atmos 5.1 768Kbps] MSubs - END! - NeoNoir.mkv",
+        "size": "7.59 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbndjaWxycXhqeTZuaHBw",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUva1lzdEVtaVc4cEM4UEhC"
+    },
+    {
+        "name": "F1 The Movie (2025) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - StOiC.mkv",
+        "size": "10.41 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcGNlMXBrbWRwYWZtM2xn",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaTduUnVTSWs2WnFlVHNR"
+    },
+    {
+        "name": "F1 The Movie (2025) 1080p 10bit AMZN WEBRip x265 [Hin-Tam-Tel DDP5.1 192Kbps + Eng DDP5.1 256Kbps] ESub - END! - NeoNoir.mkv",
+        "size": "3.03 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdjNpMTk0YXVpanZ5OWsx",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbXlIZ1FsZExIWW43WTl1"
+    },
+    {
+        "name": "Edge of Tomorrow (2014) 1080p BluRay 10bit x265 [Eng DDP7.1 Atmos 1280Kbps + Hin NF DDP5.1 640kbps] ESub - END! -StOiC.mkv",
+        "size": "6.58 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvamN5cXFxdXBtcDFucGhx",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbVdYTjRVQ3RiQm1SVXMw"
+    },
+    {
+        "name": "Edge of Tomorrow (2014) 1080p BluRay 10bit x265 [Eng DD+ Atmos 7.1 1280Kbps + Hin NF DD+5.1 640kbps] ESub - END! - StOiC.mkv",
+        "size": "6.59 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvN2Vqd2dsMGVodmNiZXc3",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZ2pmTXdUSmZUSGJGRkpV"
+    },
+    {
+        "name": "Eden (2024) 1080p BluRay 10bit x265 [Hin DDP 5.1 640Kbps + EN DDP 5.1 768Kbps] ESub - END! - StOiC.mkv",
+        "size": "6.79 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZjFmZHR6bXhjeHpjd2Zu",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNXd0bU9jSFJUQXJGOE9G"
+    },
+    {
+        "name": "Doraemon Nobita's Earth Symphony (2024) 1080p BluRay REMUX x264 [HI-TA-TE DDP 2.0 224Kbps] ESub - END! - HDT.mkv",
+        "size": "27.31 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMXd3cnBndnh3d2d5Z3cx",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcXoxd2RNVVcza2YzQ3dY"
+    },
+    {
+        "name": "Django Unchained (2012) 1080p 10bit BluRay x265 [Eng DDP 5.1 768kbps + NF Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - StOiC.mkv",
+        "size": "9.28 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMnZzb2xjZjJvdHRsMWY3",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTThDQWc0QWNOSDRORFJx"
+    },
+    {
+        "name": "Death Note S01E12 Love 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
+        "size": "479.44 MB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbWZweGhwbG9mOHA4bHVn",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdHBEY0FIbWRqRjB3bmZG"
+    },
+    {
+        "name": "Death Note S01E11 Assault 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
+        "size": "447.51 MB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMWJodTFheHZ5a3lwY2di",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvalJpbll5SWZESmdZTHdn"
+    },
+    {
+        "name": "Death Note S01E10 Doubt 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
+        "size": "480.09 MB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZ2phMGd1MnV4bXMxYjFn",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQ09UdUdLQnBiZnluSTJw"
+    },
+    {
+        "name": "Death Note S01E09 Encounter 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
+        "size": "490.96 MB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvNjRsZmFlNjl4OTRsZ2xk",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbUoxNXhtU1dQZjRldVpi"
+    },
+    {
+        "name": "Death Note S01E08 Glare 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
+        "size": "484.35 MB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvOGtpNG8zM2ZuYXh4YjM0",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOThSTlluQXVRMWxoQ1BG"
+    },
+    {
+        "name": "Death Note S01E07 Overcast 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
+        "size": "489.42 MB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbGZ6MXl4ZnJseXNlNmh0",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVlRINWJqNVBlVERwTDR4"
+    },
+    {
+        "name": "Death Note S01E06 Unraveling 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
+        "size": "432.74 MB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveGdvY29rNTV3b2t3bzk5",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQWRNZWVmVFFUVlhvWWVV"
+    },
+    {
+        "name": "Death Note S01E05 Tactics 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
+        "size": "385.24 MB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvODh6a2g2ejR3ZTR6bXlv",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaGtvWWFDeVZ1b2IwWmVF"
+    },
+    {
+        "name": "Death Note S01E04 Pursuit 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
+        "size": "404.93 MB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZ2pmdGhwdGExMXJ6NnQ2",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRWZERnI0RnNNT3RieWd1"
+    },
+    {
+        "name": "Death Note S01E03 Dealings 1080p 10bit HEVC BluRay MULTi DDP2.0 ESub x265 - END! - DarQ.mkv",
+        "size": "436.83 MB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdzExOWtqendwYXF0bW0w",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQWJPTGhFNXo2NUhoeGli"
+    },
+    {
+        "name": "Death Note S01E02 Confrontation 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
+        "size": "455.33 MB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcDlhdHB3dXdncGt1cHE3",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdFY0NVl1bExvNHZQdGtk"
+    },
+    {
+        "name": "Death Note S01E01 Rebirth 1080p 10bit HEVC BluRay MULTi DDP5.1 ESub x265 - END! - DarQ.mkv",
+        "size": "477.87 MB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZGduNzZncTZsN2N0OWxs",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVE9ldGZxZmVQMkJSTUtx"
+    },
+    {
+        "name": "Death Note (2006) S01E24 Revival 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.91 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdDVibXNoeWh4b3VhYm5x",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvY1FWWkN5QldndFRmVENa"
+    },
+    {
+        "name": "Death Note (2006) S01E23 Frenzy 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.86 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbWxmZGZ6Y3FmMWl6dHo5",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQnhHbVNRWlVpRmE5SHUy"
+    },
+    {
+        "name": "Death Note (2006) S01E22 Guidance 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.91 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbmllYWV3d2d0cWNxbm5m",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZzRTSWRqTlFWUk51cU8z"
+    },
+    {
+        "name": "Death Note (2006) S01E21 Performance 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.87 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvM3Qxbm8xd2Mzcm5pMGto",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbXRUTVZaRW93RlVlVTBY"
+    },
+    {
+        "name": "Death Note (2006) S01E20 Makeshift 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.88 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbjNwc2dwdmV1ZTJpY3Ux",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMnRGQlhWdGh6akZ1SmFv"
+    },
+    {
+        "name": "Death Note (2006) S01E19 Matsuda 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.94 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZmZjdWl1cjlrOGkxeWN1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMXhUUFp5bG5TNGhEM25l"
+    },
+    {
+        "name": "Death Note (2006) S01E18 Ally 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.86 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY2VmeXhpdmZ4YmNzaW9l",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTjR3SjJUWjhBT0FydWRm"
+    },
+    {
+        "name": "Death Note (2006) S01E17 Execution 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.84 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbjFvczlxM2Ixb29tZWh4",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRmtLRVhMRzZPc1VmT0xS"
+    },
+    {
+        "name": "Death Note (2006) S01E16 Decision 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.30 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvM3Y0Y2x1MTRsemFsM3B2",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvR3gyZkNwV0dYMTcyQ0pY"
+    },
+    {
+        "name": "Death Note (2006) S01E15 Wager 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.48 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvd3BvMnVscGkxeWpxbnlx",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUzBaSUpIWU5Dc2tLUnNs"
+    },
+    {
+        "name": "Death Note (2006) S01E14 Friend 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.29 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY2NycG5kNGNvbXJvb3Fh",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRjVVVjFZcjN2TUNpTWxF"
+    },
+    {
+        "name": "Death Note (2006) S01E13 Confession 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.24 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvc2E5ODBmZ3ZsOTYxcDhh",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdkIydmQ4d0ppRDdKUlpB"
+    },
+    {
+        "name": "Death Note (2006) S01E12 Love 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.57 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvODU0MGs4azBsaW5sMTFm",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcE9XNHhjV3dLa0J4NDJ1"
+    },
+    {
+        "name": "Death Note (2006) S01E11 Assault 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.23 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaDF0enR6YXh4YnRpYjRl",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVHEwOXA1NTBQblRwODhE"
+    },
+    {
+        "name": "Death Note (2006) S01E10 Doubt 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.32 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbzMwdXRvcjN1Y3h4dDVl",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvenF4VVNDM2ZXekREeWhp"
+    },
+    {
+        "name": "Death Note (2006) S01E09 Encounter 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.29 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaHNxZzhxajJlYnhxYmdq",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdFZvejRLYmxMdGkxNFow"
+    },
+    {
+        "name": "Death Note (2006) S01E08 Glare 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.26 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMTFiaHZoMTF4dmh2cDFl",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvalFiQVZZZjRSZW9zUFBX"
+    },
+    {
+        "name": "Death Note (2006) S01E07 Overcast 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.50 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbG5ua3h0NGx2MmV0MW52",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvN1dFcEJhbXg4akRDSXlu"
+    },
+    {
+        "name": "Death Note (2006) S01E06 Unraveling 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.41 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvOWVldXViYXc4ZTdnZXJu",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvc2MxZk5FRlJ3cVNpc1VB"
+    },
+    {
+        "name": "Death Note (2006) S01E05 Tactics 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.37 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMWc4Zjh0dDE4ZjZnaDlr",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvS01id3RZOVliOVFRT0Fr"
+    },
+    {
+        "name": "Death Note (2006) S01E04 Pursuit 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.37 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvb3FxcTlxZWlpcHo4NHBw",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbldDckdzSFpjNlNsN3RZ"
+    },
+    {
+        "name": "Death Note (2006) S01E03 Dealings 1080p BluRay REMUX AVC MULTi ESub x264 - END! - BluDragon.mkv",
+        "size": "3.23 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbXFycm5zMW5maXBuYW12",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVktqejkzYmtUWW5JVjV5"
+    },
+    {
+        "name": "Death Note (2006) S01E02 Confrontation 1080p BluRay REMUX x264 [Hin-Tam-Tel (DDP2.0 224Kbps) + Eng (DTS-HD MA 2.0 1574kbps) + Jap (DTS-HD MA 1686kbps)] ESub - END! - BluDragon.mkv",
+        "size": "3.23 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvbm5kOHFvbzh6bWl3cWdl",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMWV6aDhrTFVrcTJGR3VK"
+    },
+    {
+        "name": "Death Note (2006) S01E01 Rebirth 1080p BluRay REMUX x264 [Hin-Tam-Tel DDP2.0 224Kbps + Eng-Jap DDP2.0 256Kbps] ESub - END! - BluDragon.mkv",
+        "size": "2.78 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvanJnb2VlZnByaWZ2Mm9o",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvczV5d2VaZFVmQ0Q4M0Vq"
+    },
+    {
+        "name": "Death Note (2006) S01E01 Rebirth 1080p BluRay REMUX x264 [Hin-Tam-Tel (DDP2.0 224Kbps) + Eng (DTS-HD MA 2.0 1576kbps) + Jap (DTS-HD MA 1667kbps)] ESub - END! - BluDragon.mkv",
+        "size": "3.22 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY3NxYjFjbHVzYmpqMjFt",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvV3pUNUtTbUxXSnpxbUNl"
+    },
+    {
+        "name": "Darkness Falls (2003) 1080p BluRay x264 [HI-TA DDP 5.1 640Kbps + EN DTS 5.1 1509Kbps] ENSub - END! - PSYCHD.mkv",
+        "size": "7.32 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvOHNhb3kxcHQ4d21ldHdx",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSHBST3NzeHY1bUJZNzds"
+    },
+    {
+        "name": "Darkness Falls (2003) 1080p BluRay REMUX x264 [HI-TA DDP 5.1 640Kbps + EN DTS-HD MA 5.1 2424Kbps] MSubs - END! - TRiToN.mkv",
+        "size": "18.32 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveXRlZTFuandlenFwYjFn",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMXA1ZVhxSjM1Nld4c2pn"
+    },
+    {
+        "name": "Crayon Shin-chan the Movie Our Dinosaur Diary (2024) 1080p BluRay x264 [HI DDP2.0 640kbps + BN-HI-ML-TA-TE DD2.0 320kbps + JA DDP5.1 1024kbps] ESub - END!.mkv",
+        "size": "12.71 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 &bull; \u09ac\u09be\u0982\u09b2\u09be &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdTBiYmE0Z3FhMTB5Z3Mw",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZW1TZTVLSTBLODY5a2RQ"
+    },
+    {
+        "name": "Crayon Shin-chan the Movie Our Dinosaur Diary (2024) 1080p BluRay x264 [HI DDP2.0 640kbps + BN-HI-ML-TA-TE DD2.0 320kbps + JA DD5.1 640kbps] ESub - END! - Gru.mkv",
+        "size": "6.14 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 &bull; \u09ac\u09be\u0982\u09b2\u09be &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvd3Z1bGJmbjdsYnJjcnph",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNlVGOEVKc2RhYkU0bHR4"
+    },
+    {
+        "name": "Blue Lock Episode Nagi (2024) 1080p BluRay REMUX x264 [HI DDP 2.0 224Kbps + EN TrueHD 5.1 1532Kbps + JA TrueHD 5.1 1615Kbps] MSubs - END! - E.N.D.mkv",
+        "size": "23.29 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u65e5\u672c\u8a9e",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvb3NlZGNraGVrb3k1NWNo",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvd0FNWlM1TzRrWmZzSzl6"
+    },
+    {
+        "name": "Black Phone 2 (2025) 2160p MA WEB-DL SDR x265 [HI DDP 5.1 640Kbps + EN DDP Atmos 5.1 768Kbps] ENSub - END! - HONE.mkv",
+        "size": "20.52 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcmN1Ym51dnVkM2ZmeWpo",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVFQ4MnJ5SFVWck5aZnNQ"
+    },
+    {
+        "name": "Black Phone 2 (2025) 1080p MA WEBRip 10bit x265 [HI DDP 5.1 640Kbps + EN DDP 5.1 256Kbps] ENSub - END! - NeoNoir.mkv",
+        "size": "2.43 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcWljMjJrNTIwZTdibDRz",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNlRaYW1FakdQY2lxd1px"
+    },
+    {
+        "name": "Black Phone 2 (2025) 1080p MA WEB-DL x264 [HI DDP 5.1 640Kbps + EN DDP Atmos 5.1 768Kbps] ENSub - END! - FLUX.mkv",
+        "size": "7.24 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcHYwMDBmd2xqemtqb2Fr",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOTBWcXFFVjlnVUcySnVa"
+    },
+    {
+        "name": "Battleship (2012) 1080p BluRay 10bit HEVC MULTi DDP5.1 ESub x265 - END! - RARBG.mkv",
+        "size": "2.57 GB",
+        "langs": "Multi Audio",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvaGpiampsN2hxcWJvNHEz",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvS2ZKNUR1RXdwQk5mVVhx"
+    },
+    {
+        "name": "Battleship (2012) 1080p 10bit DS4K MA WEBRip x265 [Eng DDP Atmos 5.1 640kbps + NF Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - StOiC.mkv",
+        "size": "7.97 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZzFqMXl2amNvaGlpOG1t",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbnJ1YkVqZHJ6QWZzVXoz"
+    },
+    {
+        "name": "Baramulla (2025) 1080p DS4K NF WEBRip 10bit x265 [HI DDP Atmos 5.1 768Kbps + EN-TA-TE DDP 5.1 640Kbps] MSubs - END! - StOiC.mkv",
+        "size": "6.38 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvamRrZ2tiZDMxbHprc2d4",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvT3NHNlBaelVvdFBBd0Fm"
+    },
+    {
+        "name": "Ballerina.2025.1080p.BluRay.Hindi.DDP2.0.H.264-END.mkv",
+        "size": "2.04 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdXU3aWhraHk1bms1eGtw",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNnczbThJaXFldFlLeWx2"
+    },
+    {
+        "name": "Ballerina (2025) 1080p BluRay x264 [Eng DD5.1 640kbps + AMZN Hin-Tam-Tel-Mar DDP5.1 640kbps] MSubs - END! - BHDStudio.mkv",
+        "size": "9.64 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u092e\u0930\u093e\u0920\u0940",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvZXJ2aTV4M2U5M3VnNXFl",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaW84VVNyalVhVHczQlNt"
+    },
+    {
+        "name": "Ballerina (2025) 1080p 10bit BluRay x265 [Eng DDP7.1 1024kbps + AMZN Hin-Tam-Tel-Mar DDP5.1 640kbps] MSubs - END! - Chivaman.mkv",
+        "size": "7.28 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u092e\u0930\u093e\u0920\u0940",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvMjN2NnBnc2k2bXRtdGdj",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvN0JXekJWODRic3llV2tm"
+    },
+    {
+        "name": "Ballerina (2025) 1080p 10bit BluRay x265 [Eng DDP Atmos 7.1 1280Kbps + AMZN Hin-Tam-Tel-Mar DDP5.1 640kbps] MSubs - END! - StOiC.mkv",
+        "size": "8.31 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u092e\u0930\u093e\u0920\u0940",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvdm9mbmdjZmhweWJoYnV1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaVllMFc3VHMzckJKWVRl"
+    },
+    {
+        "name": "Ballerina (2025) 1080p 10bit BluRay x265 [Eng DDP Atmos 7.1 1280Kbps + AMZN Hin-Tam-Tel-Mar DDP5.1 640kbps] MSubs - END! - ANNi.mkv",
+        "size": "11.80 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 &bull; \u092e\u0930\u093e\u0920\u0940",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvY2V6cDkxeDEzNWxsZHpq",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVXFkbEU3d0k2Y2JZdmdt"
+    },
+    {
+        "name": "Ask Me What You Want (2024) 1080p BluRay x264 [HIN I AAC 2.0 132Kbps + ES DTS-HD MA 5.1 3657Kbps] MSubs - END! - UNVEiL.mkv",
+        "size": "13.52 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; Espa\u00f1ol",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUveTcycDBrdHB1eTFjMHlq",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSDJQWGx1cURIUm1GQlBH"
+    },
+    {
+        "name": "Afraid (2024) 1080p 10bit BluRay x265 [Eng DDP Atmos 5.1 768Kbps + AMZN Hin-Tam-Tel DDP5.1 640Kbps] ESub - END! - KINGDOM.mkv",
+        "size": "5.37 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English &bull; \u0ba4\u0bae\u0bbf\u0bb4\u0bcd &bull; \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvM2szM3JycndodmFvNzF1",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUveUNTZm9TV3h4Y0MybEVN"
+    },
+    {
+        "name": "28 Years Later (2025) 1080p DS4K MA WEBRip 10bit HEVC [DDP5.1 Atmos 768kbps English + AMZN DDP5.1 640kbps Hindi] ESub - END! - StOiC.mkv",
+        "size": "5.69 GB",
+        "langs": "\u0939\u093f\u0902\u0926\u0940 &bull; English",
+        "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvcncxeGphaXJsb3R0Z2R0",
+        "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvb1NCb2JyUVo3cHRYUlZI"
+    }
 ]
