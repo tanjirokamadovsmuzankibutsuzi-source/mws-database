@@ -1,6 +1,14 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRllzWHBHVzNZdnpheDFx",
+    "name": "Jurassic.World.Rebirth.2025.1080p.JHS.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
+    "size": "3.56 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOVhSVEdNZFhjN0lwUHY5",
     "name": "Last.Samurai.Standing.S01E06.Mortal.Combat.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
     "size": "3.86 GB",
@@ -37,7 +45,7 @@
     "name": "Last.Samurai.Standing.S01E02.Awakening.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
     "size": "4.04 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
