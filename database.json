@@ -1,6 +1,14 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvY21YRGpPVDFKemNQeGRE",
+    "name": "The Night (2020) 1080p BluRay REMUX x264 [HIN DDP5.1 192Kbps + ENG DTS-HD MA 5.1 1678Kbps + GER DTS-HD MA 5.1 1855Kbps] MSubs - END.mkv",
+    "size": "21.07 GB",
+    "langs": "Hindi | English",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZzFVSkxZMWZWUlV5ZkRB",
     "name": "STAND.BY.ME.Doraemon.2014.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.265-CMZy-END.mkv",
     "size": "5.51 GB",
@@ -37,7 +45,7 @@
     "name": "Physical.Asia.S01E08.Formidable.Foe.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
     "size": "2.64 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
