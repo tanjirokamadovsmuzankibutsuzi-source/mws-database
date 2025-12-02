@@ -1,6 +1,30 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZzFVSkxZMWZWUlV5ZkRB",
+    "name": "STAND.BY.ME.Doraemon.2014.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.265-CMZy-END.mkv",
+    "size": "5.51 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQnlBdEVQQWwzM3lycVdL",
+    "name": "STAND.BY.ME.Doraemon.2014.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "4.59 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZ1RlOExhaXpWYzNFS2NF",
+    "name": "STAND.BY.ME.Doraemon.2014.1080p.HQ.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
+    "size": "5.75 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdkRNbFRsZmd1OHhzZHZ1",
     "name": "Physical.Asia.S01E09.Inescapable.Hell.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
     "size": "1.82 GB",
@@ -21,7 +45,7 @@
     "name": "Physical.Asia.S01E07.For.the.Homeland.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
     "size": "3.14 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -29,7 +53,7 @@
     "name": "Physical.Asia.S01E06.Insurmountable.Wall.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
     "size": "3.74 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -37,7 +61,7 @@
     "name": "Physical.Asia.S01E05.Mysterious.Village.1080p.NF.WEB-DL.MULTi.DDP5.1.MSubs.H.264-CMZy-END.mkv",
     "size": "3.53 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
