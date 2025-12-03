@@ -1,6 +1,14 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUDExZGQwa2VuRE94WlM1",
+    "name": "Ghostbusters Afterlife (2021) 1080p BluRay REMUX x264 [BE-HI-KA-TA-TE DDP 5.1 640Kbps + EN DTS-HD MA 5.1 2246Kbps + EN DTS 5.1 1509Kbps] MSubs - END! - UnKn0wn.mkv",
+    "size": "29.47 GB",
+    "langs": "Hindi | English | Tamil | Telugu | Kannada",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdHdFc1NPdjljTjVwQks3",
     "name": "Emergency.Declaration.2022.1080p.JHS.WEB-DL.Hindi.AAC2.0.H.264-CMZy-END.mkv",
     "size": "3.29 GB",
@@ -37,7 +45,7 @@
     "name": "Dhoom.2.2006.1080p.NF.WEB-DL.MULTi.DDP5.1.H.265-CMZy-END.mkv",
     "size": "6.55 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
