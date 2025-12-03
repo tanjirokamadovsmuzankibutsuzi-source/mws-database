@@ -1,6 +1,22 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdHdFc1NPdjljTjVwQks3",
+    "name": "Emergency.Declaration.2022.1080p.JHS.WEB-DL.Hindi.AAC2.0.H.264-CMZy-END.mkv",
+    "size": "3.29 GB",
+    "langs": "Hindi",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNGNsU09tU3dUc0dxaDdr",
+    "name": "Emergency.Declaration.2022.1080p.JHS.WEB-DL.Hindi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "2.16 GB",
+    "langs": "Hindi",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvb3hMd3dUa2ZPZk02dkI4",
     "name": "Dhoom.2.2006.1080p.NF.WEB-DL.MULTi.DDP5.1.AV1-CMZy-END.mkv",
     "size": "4.1 GB",
@@ -29,7 +45,7 @@
     "name": "Bring.Her.Back.2025.720p.NF.WEB-DL.MULTi.AAC5.1.H.264-CMZy-END.mkv",
     "size": "1.29 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -37,7 +53,7 @@
     "name": "Bring.Her.Back.2025.720p.NF.WEB-DL.MULTi.DDP5.1.H.265-CMZy-END.mkv",
     "size": "737.39 MB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
