@@ -1,6 +1,30 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvb3hMd3dUa2ZPZk02dkI4",
+    "name": "Dhoom.2.2006.1080p.NF.WEB-DL.MULTi.DDP5.1.AV1-CMZy-END.mkv",
+    "size": "4.1 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcEV6TTVLVVdIUW5pblVv",
+    "name": "Dhoom.2.2006.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
+    "size": "7.32 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOUVoengxVVg5ejA3dmhj",
+    "name": "Dhoom.2.2006.1080p.NF.WEB-DL.MULTi.DDP5.1.H.265-CMZy-END.mkv",
+    "size": "6.55 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNXRaVndDVGZGNEJVcUhD",
     "name": "Bring.Her.Back.2025.720p.NF.WEB-DL.MULTi.AAC5.1.H.264-CMZy-END.mkv",
     "size": "1.29 GB",
@@ -21,7 +45,7 @@
     "name": "Bring.Her.Back.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
     "size": "5.39 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -29,7 +53,7 @@
     "name": "Bring.Her.Back.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.H.265-CMZy-END.mkv",
     "size": "3.24 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -37,7 +61,7 @@
     "name": "Bison.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.ESub.H.264-CMZy-END.mkv",
     "size": "9.49 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
