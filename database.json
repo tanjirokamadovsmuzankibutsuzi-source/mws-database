@@ -1,11 +1,59 @@
 [
   {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vdXFwdmcwaHh5aHFqZjBz",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvR1BJdURad3hGMmRJYnZZ",
+    "name": "The.Bengal.Files.Theatrical.Cut.2025.720p.ZEE5.WEB-DL.DD+5.1.H.265-CMZy-END.mkv",
+    "size": "1.05 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vcmxsd20ycnllZGduaWRj",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTWJ0YTFaMlhadGlCdmVx",
+    "name": "The.Bengal.Files.Theatrical.Cut.2025.2160p.ZEE5.WEB-DL.DD+5.1.H.265-CMZy-END.mkv",
+    "size": "2.75 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vd3dpdTZ0Zzl1eDV5MnV4",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvY0g4dkVESHB5cXZwU3lr",
+    "name": "The.Bengal.Files.Theatrical.Cut.2025.1080p.ZEE5.WEB-DL.DD+5.1.H.265-CMZy-END.mkv",
+    "size": "1.54 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vMTk4dGU2dzMxZmVyXw==",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYTVNR0JrYUJHak9ZUFpo",
+    "name": "The.Bengal.Files.2025.720p.ZEE5.WEB-DL.DD+5.1.H.265-CMZy-END.mkv",
+    "size": "982.55 MB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vdGZncnVndHRucW10bWZz",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvT2o3N0ZCVzhySFkzZlBC",
+    "name": "The.Bengal.Files.2025.2160p.ZEE5.WEB-DL.DD+5.1.H.265-CMZy-END.mkv",
+    "size": "2.52 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vaW5heHZwenZtb3ZycnN0",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSE1GVlZuME5tM2s0UFAz",
+    "name": "The.Bengal.Files.2025.1080p.ZEE5.WEB-DL.DD+5.1.H.265-CMZy-END.mkv",
+    "size": "1.41 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vbDd2cDQwMGZobHVjMTI3",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTWsxN0NyaEM0Wm9lVzQz",
     "name": "Sunny.Sanskari.ki.Tulsi.Kumari.2025.1080p.NF.WEB-DL.DDP5.1.H.265-CMZy-END.mkv",
     "size": "3.24 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8veHdpdV8zNDZ2dzZ2X214",
@@ -13,7 +61,7 @@
     "name": "Sunny.Sanskari.ki.Tulsi.Kumari.2025.1080p.NF.WEB-DL.DDP5.1.H.264-CMZy-END.mkv",
     "size": "5.24 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vZHR5amNkYXhlanQxeV9z",
@@ -21,7 +69,7 @@
     "name": "She.Rides.Shotgun.2025.1080p.AMZN.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
     "size": "11.04 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vZXZlY2llMTZlZWVyanB2",
@@ -29,7 +77,7 @@
     "name": "Relay.2025.1080p.AMZN.WEB-DL.MULTi.DDP2.0.H.264-CMZy-END.mkv",
     "size": "5.30 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vcXdwcGhlM3d0cmN3eXl6",
@@ -37,7 +85,7 @@
     "name": "Roxanne.1987.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
     "size": "2.55 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vZHJpdmUvandjdWN3dnByMzM2eGgz",
