@@ -1,6 +1,14 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMTZ3YUxFeHl6ODdzcHdO",
+    "name": "Ghostbusters Frozen Empire (2024) 1080p BluRay Hybrid REMUX x264 [NF HI-TA-TE DDP 5.1 640Kbps + EN TrueHD Atmos 7.1] ENSub - END! - FraMeSToR.mkv",
+    "size": "25.21 GB",
+    "langs": "Hindi | English | Tamil | Telugu",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUDExZGQwa2VuRE94WlM1",
     "name": "Ghostbusters Afterlife (2021) 1080p BluRay REMUX x264 [BE-HI-KA-TA-TE DDP 5.1 640Kbps + EN DTS-HD MA 5.1 2246Kbps + EN DTS 5.1 1509Kbps] MSubs - END! - UnKn0wn.mkv",
     "size": "29.47 GB",
@@ -37,7 +45,7 @@
     "name": "Dhoom.2.2006.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-CMZy-END.mkv",
     "size": "7.32 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
