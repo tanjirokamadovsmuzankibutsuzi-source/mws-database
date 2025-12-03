@@ -1,6 +1,14 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbjJIelZRTThKQTJ0bzlT",
+    "name": "Is.It.Cake.Holiday.S01.1080p.NF.WEB-DL.DDP5.1.H.264-CMZy-END.7z",
+    "size": "5.2 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMkVXbTVCdW9HVWhjSmdU",
     "name": "Homebound.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-CMZy-END.mkv",
     "size": "6.47 GB",
@@ -37,7 +45,7 @@
     "name": "Ghostbusters Afterlife (2021) 1080p BluRay REMUX x264 [BE-HI-KA-TA-TE DDP 5.1 640Kbps + EN DTS-HD MA 5.1 2246Kbps + EN DTS 5.1 1509Kbps] MSubs - END! - UnKn0wn.mkv",
     "size": "29.47 GB",
     "langs": "Hindi | English | Tamil | Telugu | Kannada",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
