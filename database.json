@@ -1,6 +1,22 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbEVQWUFaYWVmY1F4YU1k",
+    "name": "Athiran.Pyaar.Ka.Karm.2019.1080p.JHS.WEB-DL.Hindi.AAC2.0.H.265-CMZy-END.mkv",
+    "size": "2.24 GB",
+    "langs": "Hindi | Kannada",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOUxvdWRlQ2VnTDdXQ1VE",
+    "name": "Athiran.Pyaar.Ka.Karm.2019.1080p.JHS.WEB-DL.Hindi.AAC2.0.H.264-CMZy-END.mkv",
+    "size": "3.02 GB",
+    "langs": "Hindi | Kannada",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWGJPUVNZaGVPSjdyeW1P",
     "name": "Aaryan.2025.2160p.NF.WEB-DL.MULTi.DDP5.1.H.265-END.mkv",
     "size": "14.13 GB",
@@ -29,7 +45,7 @@
     "name": "N\u00e9ro.the.Assassin.S01E08.The.Girl.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.MSubs.H.264-CMZy-END.mkv",
     "size": "1.79 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -37,7 +53,7 @@
     "name": "N\u00e9ro.the.Assassin.S01E07.The.Archbishop.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.MSubs.H.264-CMZy-END.mkv",
     "size": "1.99 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
