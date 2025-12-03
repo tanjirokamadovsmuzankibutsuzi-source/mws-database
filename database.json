@@ -1,5 +1,29 @@
 [
   {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcEtYRFBwcVVCakowUWZH",
+    "name": "Little.Singham.Flying.Phantom.S01E01.The.Flying.Phantom.720p.DSCP.WEB-DL.Hindi.AAC2.0.H.264-CMZy-END.mkv",
+    "size": "328.97 MB",
+    "langs": "Hindi",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTTU3eEZ3R1JpTFlQY2JF",
+    "name": "Little.Singham.Flying.Phantom.S01E01.The.Flying.Phantom.576p.DSCP.WEB-DL.Hindi.AAC2.0.H.264-CMZy-END.mkv",
+    "size": "194.5 MB",
+    "langs": "Hindi",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdmdlMkZjUzVRSDBocXNj",
+    "name": "Little.Singham.Flying.Phantom.S01E01.The.Flying.Phantom.1080p.DSCP.WEB-DL.Hindi.AAC2.0.H.264-CMZy-END.mkv",
+    "size": "864.64 MB",
+    "langs": "Hindi",
+    "is_new": true
+  },
+  {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vYmkxaXZ2Zm1zMmtqeG1y",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSWdTNlR6dTIydzZsbFlW",
     "name": "Bond.Ravi.2022.1080p.JHS.WEB-DL.Hindi.AAC2.0.ESub.H.265-CMZy-END.mkv",
@@ -21,7 +45,7 @@
     "name": "Juvva.2018.720p.EROS.WEB-DL.Telugu.AAC2.0.ESub.H.264-CMZy-END.mkv",
     "size": "2.42 GB",
     "langs": "Telugu",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vano5YmN5azE2cDExbTk5",
@@ -29,7 +53,7 @@
     "name": "Juvva.2018.1080p.EROS.WEB-DL.Telugu.AAC2.0.ESub.H.264-CMZy-END.mkv",
     "size": "3.40 GB",
     "langs": "Telugu",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vMmNsMWM4bTAxd3d5M2xm",
@@ -37,7 +61,7 @@
     "name": "Ek.Chatur.Naar.2025.720p.NF.WEB-DL.Hindi.DDP5.1.ESub.H.264-CMZy-END.mkv",
     "size": "1.72 GB",
     "langs": "Hindi",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8va2oxZXJuMmhzdHFxZGw3",
