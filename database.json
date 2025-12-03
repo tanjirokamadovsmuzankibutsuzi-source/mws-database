@@ -1,5 +1,21 @@
 [
   {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vYmkxaXZ2Zm1zMmtqeG1y",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSWdTNlR6dTIydzZsbFlW",
+    "name": "Bond.Ravi.2022.1080p.JHS.WEB-DL.Hindi.AAC2.0.ESub.H.265-CMZy-END.mkv",
+    "size": "1.84 GB",
+    "langs": "Hindi",
+    "is_new": true
+  },
+  {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vc3FjdWx1cmZ6ZmVmcXBs",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQmVQb0NYYzFNUmcxcFVv",
+    "name": "Bond.Ravi.2022.1080p.JHS.WEB-DL.Hindi.AAC2.0.ESub.H.264-CMZy-END.mkv",
+    "size": "3.14 GB",
+    "langs": "Hindi",
+    "is_new": true
+  },
+  {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vaGd0YWR1dDF1cTV0dTR2",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvYnJpVGNoT25YYzNOWXlY",
     "name": "Juvva.2018.720p.EROS.WEB-DL.Telugu.AAC2.0.ESub.H.264-CMZy-END.mkv",
@@ -29,7 +45,7 @@
     "name": "Ek.Chatur.Naar.2025.1080p.NF.WEB-DL.Hindi.DDP5.1.ESub.H.264-CMZy-END.mkv",
     "size": "3.34 GB",
     "langs": "Hindi",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vbGN0bWFnbzFsbHE4Y2xn",
@@ -37,7 +53,7 @@
     "name": "Fire.In.The.Mountains.2021.720p.SLIV.WEB-DL.Hindi.AAC2.0.H.264-CMZy-END.mkv",
     "size": "1.15 GB",
     "langs": "Hindi",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vaXFjcHdpeHRwdG54a3Jk",
