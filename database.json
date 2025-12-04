@@ -1,5 +1,13 @@
 [
   {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vYW9vZW9xb2NydHVzbHJx",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSjM1U2h2dnpuVWo3V3hl",
+    "name": "Suzume (2022) 1080p BluRay x265 [HIN AAC 2.0 315Kbps] - END.mkv",
+    "size": "1.90 GB",
+    "langs": "Hindi",
+    "is_new": true
+  },
+  {
     "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvQnFGb1lBcDJnVTNqWTJl",
     "name": "M3GAN 2.0 2025 1080p 10bit DS4K AMZN WEBRip [AMZN HINDI DDP5.1 + ENGLISH DDP5.1 Atmos ] DDP5.1 x265 HEVC ESub - Kenjaku - LSSJBroly.mkv",
@@ -37,7 +45,7 @@
     "name": "Ballad of a Small Player 2025 720p 10Bit NF WEBRip x265 HEVC [NF Telugu + Hindi DDP 5.1 \u2013 English AAC 5.1] ESub - PSA - Kenjaku.mkv",
     "size": "1.06 GB",
     "langs": "Hindi | English | Telugu",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
