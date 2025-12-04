@@ -1,6 +1,14 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRXE5T21mN0VtdnBzZEtY",
+    "name": "Mahavatar.Narsimha.2025.1080p.10bit.NF.WEBRip[Telugu AAC5.1 + Hindi DDP.5.1].H265.ESubs.Kenjaku - Mr.X.mkv",
+    "size": "3.7 GB",
+    "langs": "Hindi | Telugu",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvN3hFZEZVYVJTaFQzNnBT",
     "name": "Ayalaan 2024 720p DS4K 10bit WEBRip HEVC x265 [Hindi TV DL DD 2.0 + Tamil AAC 5.1].LSSJBroly.mkv",
     "size": "1.38 GB",
@@ -37,7 +45,7 @@
     "name": "Alice in borderland S02E06 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
     "size": "1.95 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
