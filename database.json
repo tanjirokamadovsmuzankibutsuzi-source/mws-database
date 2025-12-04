@@ -1,5 +1,13 @@
 [
   {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vb2tvOGtrbWNwbTFpaHpv",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcFk1MTFhM3RDYlhUQkVj",
+    "name": "Suzume (2022) 1080p BluRay x264 [JPN DTS 5.1 + CHI DD 2.0 + HIN AAC 2.0] MSubs - WiKi-MWS.mkv",
+    "size": "12.36 GB",
+    "langs": "Hindi | Chinese",
+    "is_new": true
+  },
+  {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vaGhjbnFmbjJoY3p3eXFz",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvanhXbG5wRlc3RW41ek05",
     "name": "Suzume (2022) 1080p BluRay REMUX x264 [JPN DTS 5.1 + HIN AAC 2.0] MSubs - Arg0-MWS.mkv",
@@ -37,7 +45,7 @@
     "name": "Lokah Chapter 1 Chandra 2025 2160p 10bit JHS Telugu + Hindi + Tamil + Malayalam + Kannada + Bengali DDP5.1 HEVC - Kenjaku - Bunny.mkv",
     "size": "3.7 GB",
     "langs": "Hindi | Tamil | Telugu | Kannada | Malayalam",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
