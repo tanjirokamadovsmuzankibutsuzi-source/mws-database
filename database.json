@@ -1,5 +1,21 @@
 [
   {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNXhYeFByZTlSdU9tRWdS",
+    "name": "Suzume.2023.720p.CR.WEB-DL.DUAL.AAC2.0.H.264-CMZy-END.mkv",
+    "size": "2.61 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvd2hFSHRudkZrN0l3YWxR",
+    "name": "Suzume.2023.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264-CMZy-END.mkv",
+    "size": "5.55 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5maXQvdmlkZW8vMHIwZ21kaXVyMnhkbWRy",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvS2JnU2FtM05CQjhhU3NX",
     "name": "Lokah Chapter 1 Chandra 2025 2160p 10bit JHS Telugu + Hindi + Tamil + Malayalam + Kannada + Bengali DDP5.1 HEVC - Kenjaku - Bunny.mkv",
@@ -29,7 +45,7 @@
     "name": "Idli Kadai 2025 1080p 10bit DS4K H265 NF WEBRip [Telugu + Hindi + Tamil DDP.5.1] ESubs Kenjaku - Mr.X.mkv",
     "size": "6.02 GB",
     "langs": "Hindi | Tamil | Telugu",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5maXQvdmlkZW8veGNtd3l4aWRlZHhxd2l4",
@@ -37,7 +53,7 @@
     "name": "Jujutsu.Kaisen.0.The.Movie.2021.1080p.AMZN.WEB-DL.DDP2.0.H.264-GeTo.mkv",
     "size": "3.28 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vX2dndHRmZnMxanZocm9s",
