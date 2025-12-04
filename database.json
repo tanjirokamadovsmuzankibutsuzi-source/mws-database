@@ -1,6 +1,22 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUmpzQ0hDdTQ3OGRRMGlo",
+    "name": "Ne Zha 2 (2025) 720p 10bit AMZN WEBRip x265 HEVC [Hindi AAC 2.0 + English] ESubs Kenjaku - PSA.mkv",
+    "size": "1.54 GB",
+    "langs": "Hindi | English",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvMERUMFJzTVM0NzNKaGc3",
+    "name": "Ne Zha 2 (2025) 1080p 10bit AMZN WEBRip x265 HEVC [Hindi AAC 2.0 + English] ESubs Kenjaku - PSA.mkv",
+    "size": "3.03 GB",
+    "langs": "Hindi | English",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvRXE5T21mN0VtdnBzZEtY",
     "name": "Mahavatar.Narsimha.2025.1080p.10bit.NF.WEBRip[Telugu AAC5.1 + Hindi DDP.5.1].H265.ESubs.Kenjaku - Mr.X.mkv",
     "size": "3.7 GB",
@@ -29,7 +45,7 @@
     "name": "Alice in borderland S02E08 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
     "size": "1.71 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -37,7 +53,7 @@
     "name": "Alice in borderland S02E07 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
     "size": "1.62 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
