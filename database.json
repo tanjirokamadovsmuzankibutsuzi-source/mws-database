@@ -1,6 +1,22 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvN3hFZEZVYVJTaFQzNnBT",
+    "name": "Ayalaan 2024 720p DS4K 10bit WEBRip HEVC x265 [Hindi TV DL DD 2.0 + Tamil AAC 5.1].LSSJBroly.mkv",
+    "size": "1.38 GB",
+    "langs": "Hindi | Tamil",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWnBVQkRvMlJBNFVpaTVu",
+    "name": "Ayalaan 2024 1080p DS4K 10bit WEBRip HEVC x265 [Hindi TV DL DD 2.0 + Tamil AAC 5.1].LSSJBroly.mkv",
+    "size": "2.93 GB",
+    "langs": "Hindi | Tamil",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvb2xyZ1lMWDVoYWRQdnVJ",
     "name": "Alice in borderland S02E08 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
     "size": "1.71 GB",
@@ -29,7 +45,7 @@
     "name": "Alice in borderland S02E05 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
     "size": "1.74 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -37,7 +53,7 @@
     "name": "Alice in borderland S02E04 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
     "size": "1.22 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
