@@ -1,11 +1,75 @@
 [
   {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvR2p4RHE4RU1UYmhFZ0JF",
+    "name": "Alice in borderland S01E08 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.7 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSm8wekVvUVFSR24yMFl0",
+    "name": "Alice in borderland S01E07 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.25 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTGNCaEJqSHlMVTVZNmJv",
+    "name": "Alice in borderland S01E06 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.02 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvVkhJV1pVMkVRTmhKdTF3",
+    "name": "Alice in borderland S01E05 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.39 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvWkhqcXp1ODlyN0VVbXVk",
+    "name": "Alice in borderland S01E04 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.16 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZ3U5Y0xHTzlUOTlCN2xm",
+    "name": "Alice in borderland S01E03 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.15 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvd0p3OFhQQXBCZk1lRzFi",
+    "name": "Alice in borderland S01E02 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.15 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUExKMFBLdHdsV0U5R2NI",
+    "name": "Alice in borderland S01E01 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.34 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vYW9vZW9xb2NydHVzbHJx",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSjM1U2h2dnpuVWo3V3hl",
     "name": "Suzume (2022) 1080p BluRay x265 [HIN AAC 2.0 315Kbps] - END.mkv",
     "size": "1.90 GB",
     "langs": "Hindi",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -13,7 +77,7 @@
     "name": "M3GAN 2.0 2025 1080p 10bit DS4K AMZN WEBRip [AMZN HINDI DDP5.1 + ENGLISH DDP5.1 Atmos ] DDP5.1 x265 HEVC ESub - Kenjaku - LSSJBroly.mkv",
     "size": "2.05 GB",
     "langs": "Hindi | English",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -21,7 +85,7 @@
     "name": "The Woman in Cabin 10 2025 1080p WEBRip 10Bit [NF Telugu + Hindi + Tamil  + English AAC 5.1] x265.Kenjaku - NeoNoir.mkv",
     "size": "1.64 GB",
     "langs": "Hindi | English | Tamil | Telugu",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -29,7 +93,7 @@
     "name": "The Woman in Cabin 10 (2025) 1080p 10bit WEBRip HEVC x265 [NF Telugu + Hindi + Tamil  + English AAC 5.1] ESub. Kenjaku ~ PSA.mkv",
     "size": "1.83 GB",
     "langs": "Hindi | English | Tamil | Telugu",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8venB6ejh6ZTQ2djhkY2ts",
@@ -37,7 +101,7 @@
     "name": "Suzume (2022) 1080p DS4K BluRay x265 10bit [JPN DDP 5.1 + HIN AAC 2.0] ESub - ViTO-MWS.mkv",
     "size": "2.44 GB",
     "langs": "Hindi",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
