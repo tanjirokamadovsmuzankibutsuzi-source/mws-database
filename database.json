@@ -1,6 +1,14 @@
 [
   {
     "hub": "",
+    "gdf": "",
+    "name": "Superman (2025) 1080p 10bit AMZN WEBRip HEVC x265 [ AMZN Telugu + Hindi + Tamil  DDP5.1 + English AAC5.1 ] ESub ~ Kenjaku  ~ PSA.mkv",
+    "size": "3.86 GB",
+    "langs": "Hindi | English | Tamil | Telugu",
+    "is_new": true
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvUmpzQ0hDdTQ3OGRRMGlo",
     "name": "Ne Zha 2 (2025) 720p 10bit AMZN WEBRip x265 HEVC [Hindi AAC 2.0 + English] ESubs Kenjaku - PSA.mkv",
     "size": "1.54 GB",
@@ -37,7 +45,7 @@
     "name": "Ayalaan 2024 1080p DS4K 10bit WEBRip HEVC x265 [Hindi TV DL DD 2.0 + Tamil AAC 5.1].LSSJBroly.mkv",
     "size": "2.93 GB",
     "langs": "Hindi | Tamil",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
