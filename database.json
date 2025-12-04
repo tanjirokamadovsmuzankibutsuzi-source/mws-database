@@ -1,5 +1,13 @@
 [
   {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vZ3BiMTNrbzN0M2N1OXpr",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbjFnNHhQZXdaVUZORnZH",
+    "name": "Suzume (2022) 1080p DS4K BluRay x265 10bit [JPN DDP 5.1 + HIN AAC 2.0] MSubs - NmCT-MWS.mkv",
+    "size": "5.96 GB",
+    "langs": "Hindi",
+    "is_new": true
+  },
+  {
     "hub": "",
     "gdf": "",
     "name": "Thunderbolts* (2025) 720p 10Bit BluRay x265 HEVC [JHS Telugu + Hindi + Tamil DDP 5.1 - English AAC 5.1] ESub Kenjaku - PSA.mkv",
@@ -37,7 +45,7 @@
     "name": "Ne Zha 2 (2025) 720p 10bit AMZN WEBRip x265 HEVC [Hindi AAC 2.0 + English] ESubs Kenjaku - PSA.mkv",
     "size": "1.54 GB",
     "langs": "Hindi | English",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
