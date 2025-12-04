@@ -1,11 +1,75 @@
 [
   {
     "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvb2xyZ1lMWDVoYWRQdnVJ",
+    "name": "Alice in borderland S02E08 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.71 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvS2VwM0p4dHVGSUwzcmpz",
+    "name": "Alice in borderland S02E07 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.62 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZE1ZRjM2cWRSZUhjR2J0",
+    "name": "Alice in borderland S02E06 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.95 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvZE1IbmpCbm9ZMDdMMW9z",
+    "name": "Alice in borderland S02E05 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.74 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvSUpzd0lGRXh0alJ4MThx",
+    "name": "Alice in borderland S02E04 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.22 GB",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvOXl0U0U5TG9DcW85VjNr",
+    "name": "Alice in borderland S02E03 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.35 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvbnV6UzJwcmlUMFV4aFJh",
+    "name": "Alice in borderland S02E02 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.46 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvdXMyQ3N5QUhnb3JYckt2",
+    "name": "Alice in borderland S02E01 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
+    "size": "1.21 GB",
+    "langs": "Multi Audio",
+    "is_new": false
+  },
+  {
+    "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvR2p4RHE4RU1UYmhFZ0JF",
     "name": "Alice in borderland S01E08 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
     "size": "1.7 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -13,7 +77,7 @@
     "name": "Alice in borderland S01E07 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
     "size": "1.25 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -21,7 +85,7 @@
     "name": "Alice in borderland S01E06 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
     "size": "1.02 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -29,7 +93,7 @@
     "name": "Alice in borderland S01E05 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
     "size": "1.39 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
@@ -37,7 +101,7 @@
     "name": "Alice in borderland S01E04 1080p 10bit DS4K NF WEBRip MULTi DDP5.1 x265 HEVC ESub - Kenjaku - NazzY.mkv",
     "size": "1.16 GB",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
