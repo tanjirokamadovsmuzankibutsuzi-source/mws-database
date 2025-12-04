@@ -1,5 +1,13 @@
 [
   {
+    "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vN3Bvenp6enVyem4xem9v",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTnZwOGRWRzBNbXI0RVJT",
+    "name": "Suzume.2023.1080p.CR.WEB-DL.ENG-HIN.AAC2.0.H.264-CMZy-END.mkv",
+    "size": "6.97 GB",
+    "langs": "Hindi | English",
+    "is_new": true
+  },
+  {
     "hub": "aHR0cHM6Ly9odWJjbG91ZC5mb28vdmlkZW8vczNtZmNiam0zY21iZTdy",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNXhYeFByZTlSdU9tRWdS",
     "name": "Suzume.2023.720p.CR.WEB-DL.DUAL.AAC2.0.H.264-CMZy-END.mkv",
@@ -37,7 +45,7 @@
     "name": "Idly Kadai 2025 1080p HEVC 10bit [Telugu + Hindi + Tamil DDP.5.1] ESub.mkv",
     "size": "2.52 GB",
     "langs": "Hindi | Tamil | Telugu",
-    "is_new": true
+    "is_new": false
   },
   {
     "hub": "",
