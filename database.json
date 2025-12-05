@@ -1,5 +1,21 @@
 [
   {
+    "name": "Black.Phone.2.1080p.AMZN.WEB-DL.Dual.Audio.H.265 -CMZ-Prxy.mkv",
+    "size": "3.88 GB",
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvNkxKTEJsQ0EzaTlFYWJP",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
+    "name": "Black.Phone.2.1080p.AMZN.WEB-DL.Dual.Audio.H.264 -CMZ-Prxy.mkv",
+    "size": "7.39 GB",
+    "hub": "",
+    "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvTFV5R0tSMmFBS0cxOFpN",
+    "langs": "Multi Audio",
+    "is_new": true
+  },
+  {
     "name": "The.Family.Man.S03E07.Endgame.1080p.AMZN.WEB-DL.MULTI.DDP5.1.x265-CMZy-END.mkv",
     "size": "3.09 GB",
     "hub": "",
@@ -29,7 +45,7 @@
     "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvcGd4RW1pR0h2QnM5eFZE",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "name": "The.Family.Man.S03E03.Wanted.Man.1080p.AMZN.WEB-DL.MULTI.DDP5.1.x265-CMZy-END.mkv",
@@ -37,7 +53,7 @@
     "hub": "",
     "gdf": "aHR0cHM6Ly9nZGZsaXguZGV2L2ZpbGUvaVZ2ak9XQXZxZUl3WXJN",
     "langs": "Multi Audio",
-    "is_new": true
+    "is_new": false
   },
   {
     "name": "The.Family.Man.S03E02.Its.Personal.1080p.AMZN.WEB-DL.MULTI.DDP5.1.x265-CMZy-END.mkv",
